@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <title>Evaluation Guide · Feed-Forward 3D Survey</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body id="top">
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="wordmark" href="index.html"><span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span> Feed-Forward 3D <span class="wordmark-kind">Survey</span></a>
+      <nav aria-label="Main navigation"><a href="index.html#results">Measured results</a><a href="index.html#reproduce">Downloads</a><a href="references.html">References</a></nav>
+    </div>
+  </header>
+  <main class="wrap guide">
+    <h1>Evaluation guide</h1>
+    <p>These settings describe the measurements in Section 5.5 of the survey. The <a href="data/inputs.csv" download>input manifest</a> lists each method, sample, and actual source and target frame indices. The <a href="data/results.csv" download>result table</a> provides the metrics before display rounding.</p>
+    <h2>Hardware and cost</h2>
+    <p>The measurements used Ubuntu 26.04, an Intel Core Ultra 7 265, an NVIDIA GeForce RTX 4090, and 128 GB of RAM. Total time is the mean across samples of the median of three runs per sample. VRAM is peak allocated GPU memory, and parameter counts describe the inference system. Precomputed depth-prior generation for CylinderSplat is timed separately.</p>
+    <h2>Benchmark settings</h2>
+    <div class="table-box" tabindex="0" aria-label="Benchmark settings">
+      <table>
+        <thead><tr><th scope="col">Benchmark</th><th scope="col">Inputs and reference</th><th scope="col">Measures</th></tr></thead>
+        <tbody>
+          <tr><td>DTU</td><td>15 scans, 3 source images, reference point clouds. The known-camera and unknown-camera setups appear separately.</td><td>Accuracy, completeness, and overall error in mm.</td></tr>
+          <tr><td>RealEstate10K</td><td>20 clips, 2 or 6 source views with known cameras, and 8 held-out targets per clip at 256 × 256.</td><td>PSNR, SSIM, LPIPS.</td></tr>
+          <tr><td>ScanNet</td><td>8 windows and 3 RGB inputs for geometry and pose. A separate FreeSplat pair compares 3 and 10 inputs on the same windows with 4 targets each at 384 × 512.</td><td>Surface errors, F-score at 5 cm, pose errors and AUC at 30°. The FreeSplat pair uses image metrics.</td></tr>
+          <tr><td>Matterport3D</td><td>10 sequences and 2 panoramas per sequence at a 2 m baseline. Synthesis uses a held-out ERP target at 512 × 1024. Perspective models use six 90° faces.</td><td>WS-PSNR, SSIM, LPIPS. The geometry setup separately evaluates baseline-aligned depth, fused point clouds, and pose.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h2>Reading the files</h2>
+    <ul>
+      <li>Accuracy and completeness use the common evaluation region. For ScanNet geometry, the first frame sets the similarity alignment and the remaining two frames provide the scored surfaces.</li>
+      <li>The full results CSV stores F-scores as fractions, AUC at 30° in percent, parameter counts as counts, and timing in seconds. The chart and setup downloads convert units as shown in the labels.</li>
+      <li>The method index links to the corresponding papers and author-provided resources. Dataset entries point to the references used in the survey.</li>
+    </ul>
+    <div class="actions"><a class="button primary" href="data/inputs.csv" download>Download input manifest</a><a class="button" href="data/results.csv" download>Download results CSV</a></div>
+  </main>
+  <footer class="site-footer"><div class="wrap"><span>Feed-Forward 3D Scene Reconstruction · Survey companion</span><a href="#top">Back to top</a></div></footer>
+</body>
+</html>

@@ -1,0 +1,2978 @@
+{
+  "methods": [
+    {
+      "id": "amb3r",
+      "name": "AMB3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/HengyiWang/amb3r#amb3r-base-model",
+      "title": "AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend",
+      "year": "2026",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_AMB3R_Accurate_Feed-forward_Metric-scale_3D_Reconstruction_with_Backend_CVPR_2026_paper.html",
+      "reference_number": 117
+    },
+    {
+      "id": "any3r",
+      "name": "Any3R",
+      "mechanism": "I",
+      "settings": [
+        "Matterport3D · 2 panoramas · geometry and pose"
+      ],
+      "source": "https://github.com/Jingong-Chen/Any3R#quick-start",
+      "title": "Any3R: Feedforward 3D Reconstruction from Any Camera Type",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2610.36150",
+      "paper": "https://arxiv.org/abs/2610.36150",
+      "reference_number": 269
+    },
+    {
+      "id": "canonicalgs",
+      "name": "CanonicalGS",
+      "mechanism": "III",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/Multimedia-Analytics-Laboratory/CanonicalGS",
+      "title": "Learning Stable Canonical Worlds for Novel View Synthesis and Beyond",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2606.23027",
+      "paper": "https://arxiv.org/abs/2606.23027",
+      "reference_number": 281
+    },
+    {
+      "id": "casdiffmvs",
+      "name": "CasDiffMVS",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/cvg/diffmvs",
+      "title": "Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model",
+      "year": "2025",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "paper": "https://doi.org/10.1109/TPAMI.2025.3597148",
+      "reference_number": 271
+    },
+    {
+      "id": "casmvsnet",
+      "name": "CasMVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/alibaba/cascade-stereo/tree/master/CasMVSNet",
+      "title": "Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching",
+      "year": "2020",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR42600.2020.00257",
+      "reference_number": 43
+    },
+    {
+      "id": "cut3r",
+      "name": "CUT3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/CUT3R/CUT3R",
+      "title": "Continuous 3D Perception Model with Persistent State",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.00983",
+      "reference_number": 34
+    },
+    {
+      "id": "cvp-mvsnet",
+      "name": "CVP-MVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/JiayuYANG/CVP-MVSNet",
+      "title": "Cost Volume Pyramid Based Depth Inference for Multi-View Stereo",
+      "year": "2020",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.html",
+      "reference_number": 93
+    },
+    {
+      "id": "cylindersplat",
+      "name": "CylinderSplat",
+      "mechanism": "III",
+      "settings": [
+        "Matterport3D · Direct ERP input"
+      ],
+      "source": "https://github.com/wangqww/CylinderSplat",
+      "title": "CylinderSplat: 3D Gaussian Splatting with Cylindrical Triplanes for Panoramic Novel View Synthesis",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ed032b08a8822c3635cdcd961012ce60-Abstract-Conference.html",
+      "reference_number": 265
+    },
+    {
+      "id": "da3",
+      "name": "Depth Anything 3",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/ByteDance-Seed/Depth-Anything-3",
+      "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/e4cd50120b6d7e8daff1749d6bbaa889-Abstract-Conference.html",
+      "reference_number": 113
+    },
+    {
+      "id": "depthsplat",
+      "name": "DepthSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/cvg/depthsplat",
+      "title": "DepthSplat: Connecting Gaussian Splatting and Depth",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.01534",
+      "reference_number": 39
+    },
+    {
+      "id": "dust3r",
+      "name": "DUSt3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/naver/dust3r",
+      "title": "DUSt3R: Geometric 3D Vision Made Easy",
+      "year": "2024",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52733.2024.01956",
+      "reference_number": 31
+    },
+    {
+      "id": "fast3r",
+      "name": "Fast3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/facebookresearch/fast3r",
+      "title": "Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.02042",
+      "reference_number": 28
+    },
+    {
+      "id": "flare",
+      "name": "FLARE",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/ant-research/FLARE",
+      "title": "FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.html",
+      "reference_number": 80
+    },
+    {
+      "id": "freesplat",
+      "name": "FreeSplat",
+      "mechanism": "IV",
+      "settings": [
+        "ScanNet · 3 views · FreeSplat",
+        "ScanNet · 10 views · FreeSplat"
+      ],
+      "source": "https://github.com/wangys16/FreeSplat",
+      "title": "FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes",
+      "year": "2024",
+      "venue": "38th Conference on Neural Information Processing Systems",
+      "paper": "https://doi.org/10.52202/079017-3409",
+      "reference_number": 32
+    },
+    {
+      "id": "fus3d",
+      "name": "Fus3D",
+      "mechanism": "III",
+      "settings": [
+        "DTU · 3 views · unknown cameras"
+      ],
+      "source": "https://github.com/lorafib/fus3d/blob/main/config/experiment/test_config_sdf_only_final_dtu.yaml",
+      "title": "Latent Fusion: Decoding Consolidated 3D Geometry from Feed-forward Geometry Transformer Latents",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://eccv.ecva.net/virtual/2026/poster/5466",
+      "reference_number": 276
+    },
+    {
+      "id": "gefu",
+      "name": "GeFu",
+      "mechanism": "II",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/TQTQliu/GeFu",
+      "title": "Geometry-Aware Reconstruction and Fusion-Refined Rendering for Generalizable Neural Radiance Fields",
+      "year": "2024",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Geometry-aware_Reconstruction_and_Fusion-refined_Rendering_for_Generalizable_Neural_Radiance_Fields_CVPR_2024_paper.html",
+      "reference_number": 278
+    },
+    {
+      "id": "geomvsnet",
+      "name": "GeoMVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/doubleZ0108/GeoMVSNet#-testing",
+      "title": "GeoMVSNet: Learning Multi-View Stereo with Geometry Perception",
+      "year": "2023",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.html",
+      "reference_number": 272
+    },
+    {
+      "id": "ggn",
+      "name": "GGN",
+      "mechanism": "IV",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/shengjun-zhang/GGN",
+      "title": "Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images",
+      "year": "2024",
+      "venue": "Advances in Neural Information Processing Systems",
+      "paper": "https://doi.org/10.52202/079017-1595",
+      "reference_number": 268
+    },
+    {
+      "id": "globalsplat",
+      "name": "GlobalSplat",
+      "mechanism": "IV",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/R-Itk/globalsplat",
+      "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://eccv.ecva.net/virtual/2026/poster/5256",
+      "reference_number": 282
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "mechanism": "II",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/VITA-Group/GNT#pre-trained-models",
+      "title": "Is Attention All That NeRF Needs?",
+      "year": "2023",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://openreview.net/forum?id=xE-LtsE-xx",
+      "reference_number": 164
+    },
+    {
+      "id": "hisplat",
+      "name": "HiSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/Open3DVLab/HiSplat",
+      "title": "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction",
+      "year": "2025",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/78da47a28386d3e2e5e156d8148cecdf-Abstract-Conference.html",
+      "reference_number": 71
+    },
+    {
+      "id": "ibrnet",
+      "name": "IBRNet",
+      "mechanism": "II",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/googleinterns/IBRNet#evaluation",
+      "title": "IBRNet: Learning Multi-View Image-Based Rendering",
+      "year": "2021",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR46437.2021.00466",
+      "reference_number": 37
+    },
+    {
+      "id": "itermvs",
+      "name": "IterMVS",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/FangjinhuaWang/IterMVS#reproducing-results",
+      "title": "IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo",
+      "year": "2022",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52688.2022.00841",
+      "reference_number": 97
+    },
+    {
+      "id": "latentsplat",
+      "name": "latentSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/Chrixtar/latentsplat#installation",
+      "title": "latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction",
+      "year": "2024",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11950.pdf",
+      "reference_number": 277
+    },
+    {
+      "id": "lingbot-map",
+      "name": "LingBot-Map",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/Robbyant/lingbot-map",
+      "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://eccv.ecva.net/virtual/2026/poster/3493",
+      "reference_number": 283
+    },
+    {
+      "id": "locosplat",
+      "name": "LoCoSplat",
+      "mechanism": "III",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/swang3081/LoCoSplat",
+      "title": "LoCoSplat: Real-Time Feed-Forward 3D Gaussian Splatting with Minimal 3D Reasoning",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2610.04351",
+      "paper": "https://arxiv.org/abs/2610.04351",
+      "reference_number": 267
+    },
+    {
+      "id": "mapanything",
+      "name": "MapAnything",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/facebookresearch/map-anything",
+      "title": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+      "year": "2026",
+      "venue": "International Conference on 3D Vision",
+      "paper": "https://doi.org/10.1109/3DV69130.2026.00054",
+      "reference_number": 22
+    },
+    {
+      "id": "mast3r",
+      "name": "MASt3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/naver/mast3r",
+      "title": "Grounding Image Matching in 3D with MASt3R",
+      "year": "2024",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-031-73220-1_5",
+      "reference_number": 98
+    },
+    {
+      "id": "monomvsnet",
+      "name": "MonoMVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/JianfeiJ/MonoMVSNet",
+      "title": "MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network",
+      "year": "2025",
+      "venue": "IEEE/CVF International Conference on Computer Vision",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_MonoMVSNet_Monocular_Priors_Guided_Multi-View_Stereo_Network_ICCV_2025_paper.html",
+      "reference_number": 273
+    },
+    {
+      "id": "murf",
+      "name": "MuRF",
+      "mechanism": "III",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/autonomousvision/murf",
+      "title": "MuRF: Multi-Baseline Radiance Fields",
+      "year": "2024",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Xu_MuRF_Multi-Baseline_Radiance_Fields_CVPR_2024_paper.html",
+      "reference_number": 182
+    },
+    {
+      "id": "must3r",
+      "name": "MUSt3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/naver/must3r",
+      "title": "MUSt3R: Multi-view Network for Stereo 3D Reconstruction",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Cabon_MUSt3R_Multi-view_Network_for_Stereo_3D_Reconstruction_CVPR_2025_paper.html",
+      "reference_number": 69
+    },
+    {
+      "id": "mvsanywhere",
+      "name": "MVSAnywhere",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/nianticlabs/mvsanywhere#installation",
+      "title": "MVSAnywhere: Zero-Shot Multi-View Stereo",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Izquierdo_MVSAnywhere_Zero-Shot_Multi-View_Stereo_CVPR_2025_paper.html",
+      "reference_number": 66
+    },
+    {
+      "id": "mvsnet",
+      "name": "MVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/YoYo000/MVSNet",
+      "title": "MVSNet: Depth Inference for Unstructured Multi-view Stereo",
+      "year": "2018",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-030-01237-3_47",
+      "reference_number": 12
+    },
+    {
+      "id": "mvsplat",
+      "name": "MVSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views",
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/donydchen/mvsplat",
+      "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-view Images",
+      "year": "2024",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-031-72664-4_21",
+      "reference_number": 30
+    },
+    {
+      "id": "omnisplat",
+      "name": "OmniSplat",
+      "mechanism": "I",
+      "settings": [
+        "Matterport3D · Direct ERP input"
+      ],
+      "source": "https://github.com/esw0116/OmniSplat",
+      "title": "OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.html",
+      "reference_number": 284
+    },
+    {
+      "id": "panogrf",
+      "name": "PanoGRF",
+      "mechanism": "II",
+      "settings": [
+        "Matterport3D · Direct ERP input"
+      ],
+      "source": "https://github.com/thucz/PanoGRF",
+      "title": "PanoGRF: Generalizable Spherical Radiance Fields for Wide-Baseline Panoramas",
+      "year": "2023",
+      "venue": "Advances in Neural Information Processing Systems",
+      "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/16049e0c3f47899091ac46f8b3afb178-Abstract.html",
+      "reference_number": 224
+    },
+    {
+      "id": "panovggt",
+      "name": "PanoVGGT",
+      "mechanism": "I",
+      "settings": [
+        "Matterport3D · 2 panoramas · geometry and pose"
+      ],
+      "source": "https://github.com/YijingGuo-June/PanoVGGT/blob/main/evaluation/eval_allpano.py",
+      "title": "PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery",
+      "year": "2026",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Guo_PanoVGGT_Feed-Forward_3D_Reconstruction_from_Panoramic_Imagery_CVPR_2026_paper.html",
+      "reference_number": 40
+    },
+    {
+      "id": "pansplat",
+      "name": "PanSplat",
+      "mechanism": "I",
+      "settings": [
+        "Matterport3D · Direct ERP input"
+      ],
+      "source": "https://github.com/chengzhag/PanSplat",
+      "title": "PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.01068",
+      "reference_number": 24
+    },
+    {
+      "id": "patchmatchnet",
+      "name": "PatchmatchNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/FangjinhuaWang/PatchmatchNet/tree/c6d2dce962be8109779afcdb3b79880d35ff9c83",
+      "title": "PatchmatchNet: Learned Multi-View PatchMatch Stereo",
+      "year": "2021",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.html",
+      "reference_number": 65
+    },
+    {
+      "id": "pixelnerf",
+      "name": "pixelNeRF",
+      "mechanism": "II",
+      "settings": [
+        "RealEstate10K · 2 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/sxyu/pixel-nerf#running-the-model-video-generation",
+      "title": "pixelNeRF: Neural Radiance Fields from One or Few Images",
+      "year": "2021",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR46437.2021.00455",
+      "reference_number": 17
+    },
+    {
+      "id": "pixelsplat",
+      "name": "pixelSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/dcharatan/pixelsplat",
+      "title": "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+      "year": "2024",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52733.2024.01840",
+      "reference_number": 18
+    },
+    {
+      "id": "pow3r",
+      "name": "Pow3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/naver/pow3r#checkpoints",
+      "title": "Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Pow3R_Empowering_Unconstrained_3D_Reconstruction_with_Camera_and_Scene_Priors_CVPR_2025_paper.html",
+      "reference_number": 85
+    },
+    {
+      "id": "resplat",
+      "name": "ReSplat",
+      "mechanism": "IV",
+      "settings": [
+        "RealEstate10K · 2 views"
+      ],
+      "source": "https://github.com/cvg/resplat/blob/main/scripts/re10k_view2_256x256_base_refine.sh",
+      "title": "ReSplat: Learning Recurrent Gaussian Splatting",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-032-37435-6_20",
+      "reference_number": 60
+    },
+    {
+      "id": "retr",
+      "name": "ReTR",
+      "mechanism": "II",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/YixunLiang/ReTR",
+      "title": "ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction",
+      "year": "2023",
+      "venue": "Advances in Neural Information Processing Systems",
+      "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/c47ec10bc135be5c3663ba344d29a6a5-Abstract-Conference.html",
+      "reference_number": 166
+    },
+    {
+      "id": "spann3r",
+      "name": "Spann3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/HengyiWang/Spann3R",
+      "title": "3D Reconstruction with Spatial Memory",
+      "year": "2025",
+      "venue": "International Conference on 3D Vision",
+      "paper": "https://doi.org/10.1109/3DV66043.2025.00013",
+      "reference_number": 46
+    },
+    {
+      "id": "sparseneus",
+      "name": "SparseNeuS",
+      "mechanism": "II",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/xxlong0/SparseNeuS",
+      "title": "SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views",
+      "year": "2022",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-031-19824-3_13",
+      "reference_number": 25
+    },
+    {
+      "id": "stream3r",
+      "name": "STream3R",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/NIRVANALAN/STream3R",
+      "title": "STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/46989f00f32abadeca82205366463b97-Abstract-Conference.html",
+      "reference_number": 103
+    },
+    {
+      "id": "streamvggt",
+      "name": "StreamVGGT",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/wzzheng/StreamVGGT",
+      "title": "Streaming Visual Geometry Transformer",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8da04a60948be713dc766f0c7e3a5b1f-Abstract-Conference.html",
+      "reference_number": 82
+    },
+    {
+      "id": "svrecon",
+      "name": "SVRecon",
+      "mechanism": "II",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/AoxiangFan/SVRecon#evaluation",
+      "title": "Generalizable Neural Reconstruction of High-Fidelity Surfaces via Sparse Volumetric Representations",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-032-37520-9_34",
+      "reference_number": 275
+    },
+    {
+      "id": "transmvsnet",
+      "name": "TransMVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/megvii-research/TransMVSNet",
+      "title": "TransMVSNet: Global Context-Aware Multi-View Stereo Network with Transformers",
+      "year": "2022",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2022/html/Ding_TransMVSNet_Global_Context-Aware_Multi-View_Stereo_Network_With_Transformers_CVPR_2022_paper.html",
+      "reference_number": 101
+    },
+    {
+      "id": "transplat",
+      "name": "TranSplat",
+      "mechanism": "I",
+      "settings": [
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/xingyoujun/transplat",
+      "title": "TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers",
+      "year": "2025",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "paper": "https://doi.org/10.1609/aaai.v39i9.33070",
+      "reference_number": 86
+    },
+    {
+      "id": "ucsnet",
+      "name": "UCS-Net",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/touristCheng/UCSNet",
+      "title": "Deep Stereo Using Adaptive Thin Volume Representation with Uncertainty Awareness",
+      "year": "2020",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.html",
+      "reference_number": 95
+    },
+    {
+      "id": "uforecon",
+      "name": "UFORecon",
+      "mechanism": "II",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/youngju-na/UFORecon",
+      "title": "UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and Unfavorable Sets",
+      "year": "2024",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Na_UFORecon_Generalizable_Sparse-View_Surface_Reconstruction_from_Arbitrary_and_Unfavorable_Sets_CVPR_2024_paper.html",
+      "reference_number": 170
+    },
+    {
+      "id": "unimvsnet",
+      "name": "UniMVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/prstrive/UniMVSNet#-testing",
+      "title": "Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation",
+      "year": "2022",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Rethinking_Depth_Estimation_for_Multi-View_Stereo_A_Unified_Representation_CVPR_2022_paper.html",
+      "reference_number": 274
+    },
+    {
+      "id": "vggt",
+      "name": "VGGT",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/facebookresearch/vggt",
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "year": "2025",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.00499",
+      "reference_number": 19
+    },
+    {
+      "id": "vggt-omega",
+      "name": "VGGT-Ω",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/facebookresearch/vggt-omega/blob/main/reproduction.md",
+      "title": "VGGT-Ω",
+      "year": "2026",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_VGGT-ohm_CVPR_2026_paper.html",
+      "reference_number": 77
+    },
+    {
+      "id": "vis-mvsnet",
+      "name": "Vis-MVSNet",
+      "mechanism": "I",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/jzhangbs/Vis-MVSNet",
+      "title": "Vis-MVSNet: Visibility-Aware Multi-view Stereo Network",
+      "year": "2023",
+      "venue": "Int J Comput Vis",
+      "paper": "https://doi.org/10.1007/s11263-022-01697-3",
+      "reference_number": 90
+    },
+    {
+      "id": "volrecon",
+      "name": "VolRecon",
+      "mechanism": "II",
+      "settings": [
+        "DTU · 3 views · known cameras"
+      ],
+      "source": "https://github.com/IVRL/VolRecon",
+      "title": "VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction",
+      "year": "2023",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Ren_VolRecon_Volume_Rendering_of_Signed_Ray_Distance_Functions_for_Generalizable_CVPR_2023_paper.html",
+      "reference_number": 162
+    },
+    {
+      "id": "volsplat",
+      "name": "VolSplat",
+      "mechanism": "III",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/ziplab/VolSplat",
+      "title": "VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction",
+      "year": "2026",
+      "venue": "European Conference on Computer Vision",
+      "paper": "https://doi.org/10.1007/978-3-032-37232-1_1",
+      "reference_number": 26
+    },
+    {
+      "id": "worldmirror",
+      "name": "WorldMirror",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views",
+        "ScanNet · 3 views · geometry and pose",
+        "Matterport3D · 6-face adaptation"
+      ],
+      "source": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
+      "title": "WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting",
+      "year": "2026",
+      "venue": "International Conference on Machine Learning",
+      "paper": "https://proceedings.mlr.press/v306/liu26cw.html",
+      "reference_number": 279
+    },
+    {
+      "id": "yonosplat",
+      "name": "YoNoSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/cvg/YoNoSplat/blob/main/EVALUATION.md",
+      "title": "YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/42f92b78a6695f60db0cd38b54d57a41-Abstract-Conference.html",
+      "reference_number": 107
+    },
+    {
+      "id": "zipsplat",
+      "name": "ZipSplat",
+      "mechanism": "I",
+      "settings": [
+        "RealEstate10K · 6 views"
+      ],
+      "source": "https://github.com/cvg/ZipSplat#training-and-evaluation",
+      "title": "ZipSplat: Fewer Gaussians, Better Splats",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2606.05102",
+      "paper": "https://arxiv.org/abs/2606.05102",
+      "reference_number": 280
+    },
+    {
+      "id": "pi3",
+      "name": "π³",
+      "mechanism": "I",
+      "settings": [
+        "ScanNet · 3 views · geometry and pose"
+      ],
+      "source": "https://github.com/yyfz/Pi3",
+      "title": "π³: Permutation-Equivariant Visual Geometry Learning",
+      "year": "2026",
+      "venue": "International Conference on Learning Representations",
+      "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/11a09e0aaa74867c6b0719c639fc09f8-Abstract-Conference.html",
+      "reference_number": 75
+    }
+  ],
+  "datasets": [
+    {
+      "name": "DTU MVS",
+      "domain": "3D geometry",
+      "scale": "124 scans",
+      "observations": "Images (calibrated)",
+      "reference": "Point cloud (structured light)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://doi.org/10.1109/cvpr.2014.59",
+      "reference_numbers": [
+        215
+      ]
+    },
+    {
+      "name": "CO3D",
+      "domain": "3D geometry",
+      "scale": "18,619 videos",
+      "observations": "Video (object)",
+      "reference": "Point cloud (MVS)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf",
+      "reference_numbers": [
+        226
+      ]
+    },
+    {
+      "name": "MVImgNet",
+      "domain": "3D geometry",
+      "scale": "219,188 videos",
+      "observations": "Video (object)",
+      "reference": "Point cloud, poses (SfM)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MVImgNet_A_Large-Scale_Dataset_of_Multi-View_Images_CVPR_2023_paper.pdf",
+      "reference_numbers": [
+        227
+      ]
+    },
+    {
+      "name": "uCO3D",
+      "domain": "3D geometry",
+      "scale": "≈170,000 videos",
+      "observations": "Video (object orbit)",
+      "reference": "Point cloud (SfM), 3DGS",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UnCommon_Objects_in_3D_CVPR_2025_paper.html",
+      "reference_numbers": [
+        221
+      ]
+    },
+    {
+      "name": "Google Scanned Objects",
+      "domain": "3D geometry",
+      "scale": "1,030 objects",
+      "observations": "3D assets (scanned)",
+      "reference": "Mesh (textured)",
+      "projection": [
+        "3D assets"
+      ],
+      "origin": "",
+      "paper": "https://research.google/pubs/google-scanned-objects-a-high-quality-dataset-of-3d-scanned-household-items/",
+      "reference_numbers": [
+        228
+      ]
+    },
+    {
+      "name": "OmniObject3D",
+      "domain": "3D geometry",
+      "scale": "6,000 objects",
+      "observations": "Video (real), rendered images",
+      "reference": "Mesh (scanned)",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf",
+      "reference_numbers": [
+        229
+      ]
+    },
+    {
+      "name": "Objaverse 1.0",
+      "domain": "3D geometry",
+      "scale": ">800,000 models",
+      "observations": "3D assets",
+      "reference": "Mesh",
+      "projection": [
+        "3D assets"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Deitke_Objaverse_A_Universe_of_Annotated_3D_Objects_CVPR_2023_paper.html",
+      "reference_numbers": [
+        230
+      ]
+    },
+    {
+      "name": "ScanNet",
+      "domain": "3D geometry",
+      "scale": "1,513 scans",
+      "observations": "RGB-D",
+      "reference": "Mesh (fused)",
+      "projection": [
+        "RGB-D"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf",
+      "reference_numbers": [
+        217
+      ]
+    },
+    {
+      "name": "ScanNet++",
+      "domain": "3D geometry",
+      "scale": "460 scenes",
+      "observations": "Images (DSLR), RGB-D",
+      "reference": "Point cloud (laser scan)",
+      "projection": [
+        "RGB-D"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2023/html/Yeshwanth_ScanNet_A_High-Fidelity_Dataset_of_3D_Indoor_Scenes_ICCV_2023_paper.html",
+      "reference_numbers": [
+        231
+      ]
+    },
+    {
+      "name": "Replica",
+      "domain": "3D geometry",
+      "scale": "18 scenes",
+      "observations": "3D assets (indoor scans)",
+      "reference": "Mesh (reconstructed)",
+      "projection": [
+        "3D assets"
+      ],
+      "origin": "",
+      "paper": "https://arxiv.org/abs/1906.05797",
+      "reference_numbers": [
+        232
+      ]
+    },
+    {
+      "name": "HM3D",
+      "domain": "3D geometry",
+      "scale": "1,000 scenes",
+      "observations": "3D assets (indoor scans)",
+      "reference": "Mesh (textured)",
+      "projection": [
+        "3D assets"
+      ],
+      "origin": "",
+      "paper": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/34173cb38f07f89ddbebc2ac9128303f-Abstract-round2.html",
+      "reference_numbers": [
+        233
+      ]
+    },
+    {
+      "name": "ETH3D",
+      "domain": "3D geometry",
+      "scale": "25 scenes",
+      "observations": "Images (perspective)",
+      "reference": "Point cloud (laser scan)",
+      "projection": [
+        "Perspective"
+      ],
+      "origin": "",
+      "paper": "https://eth3d.ethz.ch/overview",
+      "reference_numbers": [
+        216
+      ]
+    },
+    {
+      "name": "Tanks and Temples",
+      "domain": "3D geometry",
+      "scale": "21 scenes",
+      "observations": "Video (multiview)",
+      "reference": "Point cloud (laser scan)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://doi.org/10.1145/3072959.3073599",
+      "reference_numbers": [
+        234
+      ]
+    },
+    {
+      "name": "TerraSky3D",
+      "domain": "3D geometry",
+      "scale": "155 scenes",
+      "observations": "Images (ground/aerial)",
+      "reference": "Point cloud (SfM)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026W/3DMV/html/DUrso_TerraSky3D_Multi-View_Reconstructions_of_European_Landmarks_in_4K_CVPRW_2026_paper.html",
+      "reference_numbers": [
+        47
+      ]
+    },
+    {
+      "name": "Holo360D",
+      "domain": "3D geometry",
+      "scale": "75 scenes",
+      "observations": "ERP (captured)",
+      "reference": "Mesh (LiDAR), poses",
+      "projection": [
+        "ERP"
+      ],
+      "origin": "",
+      "paper": "https://eccv.ecva.net/virtual/2026/poster/4047",
+      "reference_numbers": [
+        222
+      ]
+    },
+    {
+      "name": "Waymo Open Dataset",
+      "domain": "3D geometry",
+      "scale": "1,150 segments",
+      "observations": "Images (multicamera), LiDAR",
+      "reference": "Point cloud (LiDAR)",
+      "projection": [
+        "LiDAR"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html",
+      "reference_numbers": [
+        235
+      ]
+    },
+    {
+      "name": "nuScenes",
+      "domain": "3D geometry",
+      "scale": "1,000 segments",
+      "observations": "Images (surround), LiDAR",
+      "reference": "Point cloud (LiDAR)",
+      "projection": [
+        "LiDAR"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf",
+      "reference_numbers": [
+        236
+      ]
+    },
+    {
+      "name": "BlendedMVS",
+      "domain": "Depth estimation",
+      "scale": "113 scenes",
+      "observations": "Images (blended)",
+      "reference": "Depth (rendered)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://github.com/YoYo000/BlendedMVS",
+      "reference_numbers": [
+        237
+      ]
+    },
+    {
+      "name": "ARKitScenes",
+      "domain": "Depth estimation",
+      "scale": "1,661 scenes",
+      "observations": "RGB-D",
+      "reference": "Depth (sensor)",
+      "projection": [
+        "RGB-D"
+      ],
+      "origin": "",
+      "paper": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/66f041e16a60928b05a7e228a89c3799-Paper-round1.pdf",
+      "reference_numbers": [
+        238
+      ]
+    },
+    {
+      "name": "Hypersim",
+      "domain": "Depth estimation",
+      "scale": "461 scenes",
+      "observations": "Images (rendered)",
+      "reference": "Depth (rendered)",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2021/html/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.html",
+      "reference_numbers": [
+        239
+      ]
+    },
+    {
+      "name": "MegaDepth",
+      "domain": "Depth estimation",
+      "scale": "196 locations",
+      "observations": "Images (web)",
+      "reference": "Depth (MVS)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://research.cs.cornell.edu/megadepth/",
+      "reference_numbers": [
+        240
+      ]
+    },
+    {
+      "name": "KITTI-360",
+      "domain": "Depth estimation",
+      "scale": "73.7 km",
+      "observations": "Images (stereo), fisheye",
+      "reference": "Depth (LiDAR projection)",
+      "projection": [
+        "Fisheye"
+      ],
+      "origin": "",
+      "paper": "https://doi.org/10.1109/TPAMI.2022.3179507",
+      "reference_numbers": [
+        241
+      ]
+    },
+    {
+      "name": "WoodScape",
+      "domain": "Depth estimation",
+      "scale": ">10,000 images",
+      "observations": "Fisheye (captured)",
+      "reference": "Depth (sparse LiDAR)",
+      "projection": [
+        "Fisheye"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content_ICCV_2019/html/Yogamani_WoodScape_A_Multi-Task_Multi-Camera_Fisheye_Dataset_for_Autonomous_Driving_ICCV_2019_paper.html",
+      "reference_numbers": [
+        242
+      ]
+    },
+    {
+      "name": "Pano3D",
+      "domain": "Depth estimation",
+      "scale": "7,170/1,527 images",
+      "observations": "ERP (rendered)",
+      "reference": "Depth (spherical render)",
+      "projection": [
+        "ERP"
+      ],
+      "origin": "Rendered observations",
+      "paper": "https://arxiv.org/html/2109.02749",
+      "reference_numbers": [
+        225
+      ]
+    },
+    {
+      "name": "Stanford 2D-3D-S",
+      "domain": "Depth estimation",
+      "scale": ">70,000 images",
+      "observations": "Images (perspective), ERP",
+      "reference": "Depth (registered)",
+      "projection": [
+        "ERP",
+        "Perspective"
+      ],
+      "origin": "",
+      "paper": "https://arxiv.org/abs/1702.01105",
+      "reference_numbers": [
+        243
+      ]
+    },
+    {
+      "name": "HELVIPAD",
+      "domain": "Depth estimation",
+      "scale": "≈40,000 frames",
+      "observations": "ERP (captured stereo)",
+      "reference": "Depth (LiDAR projection)",
+      "projection": [
+        "ERP"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html",
+      "reference_numbers": [
+        244
+      ]
+    },
+    {
+      "name": "Dynamic Replica",
+      "domain": "Depth estimation",
+      "scale": "524 videos",
+      "observations": "Video (synthetic stereo)",
+      "reference": "Depth/disparity (rendered)",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.html",
+      "reference_numbers": [
+        245
+      ]
+    },
+    {
+      "name": "7-Scenes",
+      "domain": "Localization and trajectories",
+      "scale": "7 scenes",
+      "observations": "RGB-D",
+      "reference": "Trajectory (KinectFusion)",
+      "projection": [
+        "RGB-D"
+      ],
+      "origin": "",
+      "paper": "https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/",
+      "reference_numbers": [
+        246
+      ]
+    },
+    {
+      "name": "TUM RGB-D",
+      "domain": "Localization and trajectories",
+      "scale": "39 sequences",
+      "observations": "RGB-D",
+      "reference": "Trajectory (MoCap)",
+      "projection": [
+        "RGB-D"
+      ],
+      "origin": "",
+      "paper": "https://cvg.cit.tum.de/_media/spezial/bib/sturm12iros.pdf",
+      "reference_numbers": [
+        247
+      ]
+    },
+    {
+      "name": "EuRoC MAV",
+      "domain": "Localization and trajectories",
+      "scale": "11 sequences",
+      "observations": "Images (gray stereo), IMU",
+      "reference": "Trajectory (MoCap/laser)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://doi.org/10.1177/0278364915620033",
+      "reference_numbers": [
+        248
+      ]
+    },
+    {
+      "name": "TartanAir",
+      "domain": "Localization and trajectories",
+      "scale": "1,037 sequences",
+      "observations": "Video (simulated stereo)",
+      "reference": "Poses (simulated)",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://arxiv.org/abs/2003.14338",
+      "reference_numbers": [
+        249
+      ]
+    },
+    {
+      "name": "360Loc",
+      "domain": "Localization and trajectories",
+      "scale": "4 scenes",
+      "observations": "ERP, virtual fisheye/pinhole",
+      "reference": "Poses (registered)",
+      "projection": [
+        "ERP",
+        "Fisheye"
+      ],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_360Loc_A_Dataset_and_Benchmark_for_Omnidirectional_Visual_Localization_with_CVPR_2024_paper.pdf",
+      "reference_numbers": [
+        250
+      ]
+    },
+    {
+      "name": "RealEstate10K",
+      "domain": "Novel view synthesis",
+      "scale": "≈80,000 clips",
+      "observations": "Video (web)",
+      "reference": "Target RGB (held out)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://doi.org/10.1145/3197517.3201323",
+      "reference_numbers": [
+        218
+      ]
+    },
+    {
+      "name": "ACID",
+      "domain": "Novel view synthesis",
+      "scale": ">13,000 sequences",
+      "observations": "Video (aerial)",
+      "reference": "Target RGB (held out)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Infinite_Nature_Perpetual_View_Generation_of_Natural_Scenes_From_a_ICCV_2021_paper.pdf",
+      "reference_numbers": [
+        251
+      ]
+    },
+    {
+      "name": "DL3DV-10K/140",
+      "domain": "Novel view synthesis",
+      "scale": "10,510/140",
+      "observations": "Video (captured)",
+      "reference": "Target RGB (held out)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html",
+      "reference_numbers": [
+        219
+      ]
+    },
+    {
+      "name": "MegaSynth",
+      "domain": "Novel view synthesis",
+      "scale": "700,000 scenes",
+      "observations": "Images (procedural render)",
+      "reference": "Target RGB, rendered depth",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_MegaSynth_Scaling_Up_3D_Scene_Reconstruction_with_Synthesized_Data_CVPR_2025_paper.html",
+      "reference_numbers": [
+        220
+      ]
+    },
+    {
+      "name": "Mip-NeRF 360",
+      "domain": "Novel view synthesis",
+      "scale": "9 scenes",
+      "observations": "Images (orbiting views)",
+      "reference": "Target RGB (held out)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://jonbarron.info/mipnerf360/",
+      "reference_numbers": [
+        252
+      ]
+    },
+    {
+      "name": "LLFF (forward-facing)",
+      "domain": "Novel view synthesis",
+      "scale": "8 scenes",
+      "observations": "Images (forward-facing)",
+      "reference": "Target RGB (held out)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://doi.org/10.1145/3306346.3322980",
+      "reference_numbers": [
+        15,
+        253
+      ]
+    },
+    {
+      "name": "PanoGRF (MP3D)",
+      "domain": "Novel view synthesis",
+      "scale": "90 scenes",
+      "observations": "ERP (rendered)",
+      "reference": "Target ERP (held out)",
+      "projection": [
+        "ERP"
+      ],
+      "origin": "Rendered observations",
+      "paper": "https://arxiv.org/abs/1709.06158",
+      "reference_numbers": [
+        223,
+        224
+      ]
+    },
+    {
+      "name": "DyCheck (iPhone)",
+      "domain": "Novel view synthesis",
+      "scale": "14 sequences",
+      "observations": "Video (handheld)",
+      "reference": "Target RGB (synced)",
+      "projection": [],
+      "origin": "",
+      "paper": "https://proceedings.neurips.cc/paper_files/paper/2022/file/dab5a29f6614ec47ea0ca85c140226fd-Paper-Conference.pdf",
+      "reference_numbers": [
+        254
+      ]
+    },
+    {
+      "name": "MPI Sintel",
+      "domain": "Motion and tracking",
+      "scale": "35 sequences",
+      "observations": "Video (synthetic)",
+      "reference": "Optical flow (rendered)",
+      "projection": [],
+      "origin": "Rendered observations",
+      "paper": "https://sintel.is.tuebingen.mpg.de/downloads",
+      "reference_numbers": [
+        255
+      ]
+    },
+    {
+      "name": "TAPVid-3D",
+      "domain": "Motion and tracking",
+      "scale": "4,569 videos",
+      "observations": "Video (captured)",
+      "reference": "3D point tracks, visibility",
+      "projection": [],
+      "origin": "",
+      "paper": "https://proceedings.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html",
+      "reference_numbers": [
+        256
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "casmvsnet",
+      "name": "CasMVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 43,
+      "accuracy_mm": 0.3318950520309107,
+      "completeness_mm": 1.6805307960292275,
+      "overall_mm": 1.006212924030069,
+      "median_total": 0.753761796001345,
+      "max_peak_allocated_gib": 2.2628345489501953,
+      "system_params": 934304.0
+    },
+    {
+      "id": "volrecon",
+      "name": "VolRecon",
+      "mechanism": "II",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 162,
+      "accuracy_mm": 0.8615286084852078,
+      "completeness_mm": 2.2101990322357037,
+      "overall_mm": 1.5358638203604558,
+      "median_total": 35.604105972809094,
+      "max_peak_allocated_gib": 1.5250635147094727,
+      "system_params": 875755.0
+    },
+    {
+      "id": "uforecon",
+      "name": "UFORecon",
+      "mechanism": "II",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 170,
+      "accuracy_mm": 0.48694410671685423,
+      "completeness_mm": 1.577947076648406,
+      "overall_mm": 1.03244559168263,
+      "median_total": 61.95002179133395,
+      "max_peak_allocated_gib": 3.6262288093566895,
+      "system_params": 1594719.0
+    },
+    {
+      "id": "patchmatchnet",
+      "name": "PatchmatchNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 65,
+      "accuracy_mm": 0.32078870990991837,
+      "completeness_mm": 1.735735467718808,
+      "overall_mm": 1.0282620888143632,
+      "median_total": 0.41902985780810315,
+      "max_peak_allocated_gib": 1.1900088628133139,
+      "system_params": 221925.0
+    },
+    {
+      "id": "transmvsnet",
+      "name": "TransMVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 101,
+      "accuracy_mm": 0.30889566519796663,
+      "completeness_mm": 2.88604953821277,
+      "overall_mm": 1.5974726017053684,
+      "median_total": 1.2934926014083128,
+      "max_peak_allocated_gib": 2.5004591941833496,
+      "system_params": 1148924.0
+    },
+    {
+      "id": "sparseneus",
+      "name": "SparseNeuS",
+      "mechanism": "II",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 25,
+      "accuracy_mm": 3.066035511016843,
+      "completeness_mm": 2.1344363419701975,
+      "overall_mm": 2.60023592649352,
+      "median_total": 1.7967660711767772,
+      "max_peak_allocated_gib": 1.9900187492370605,
+      "system_params": 804784.0
+    },
+    {
+      "id": "retr",
+      "name": "ReTR",
+      "mechanism": "II",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 166,
+      "accuracy_mm": 0.5171731164864252,
+      "completeness_mm": 1.8863592800330586,
+      "overall_mm": 1.2017661982597418,
+      "median_total": 46.7257093096152,
+      "max_peak_allocated_gib": 3.262129306793213,
+      "system_params": 1039012.0
+    },
+    {
+      "id": "mvsnet",
+      "name": "MVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 12,
+      "accuracy_mm": 0.36283743695011156,
+      "completeness_mm": 1.8806576219899265,
+      "overall_mm": 1.121747529470019,
+      "median_total": 0.8087254229933023,
+      "max_peak_allocated_gib": 6.518762795130412,
+      "system_params": 1084304.0
+    },
+    {
+      "id": "itermvs",
+      "name": "IterMVS",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 97,
+      "accuracy_mm": 0.2748970915272989,
+      "completeness_mm": 4.565042361746747,
+      "overall_mm": 2.419969726637023,
+      "median_total": 0.5727809381360809,
+      "max_peak_allocated_gib": 0.6952300071716309,
+      "system_params": 343685.0
+    },
+    {
+      "id": "ucsnet",
+      "name": "UCS-Net",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 95,
+      "accuracy_mm": 0.32933552986606235,
+      "completeness_mm": 1.7018378301085715,
+      "overall_mm": 1.0155866799873168,
+      "median_total": 1.0266971308427553,
+      "max_peak_allocated_gib": 3.2733001708984375,
+      "system_params": 938496.0
+    },
+    {
+      "id": "cvp-mvsnet",
+      "name": "CVP-MVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 93,
+      "accuracy_mm": 0.3228346257601987,
+      "completeness_mm": 2.0190705029567884,
+      "overall_mm": 1.1709525643584937,
+      "median_total": 1.3106818218715488,
+      "max_peak_allocated_gib": 5.198019981384277,
+      "system_params": 551585.0
+    },
+    {
+      "id": "vis-mvsnet",
+      "name": "Vis-MVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 90,
+      "accuracy_mm": 0.3671615248918963,
+      "completeness_mm": 1.8950749760429084,
+      "overall_mm": 1.1311182504674024,
+      "median_total": 1.3347620857569078,
+      "max_peak_allocated_gib": 4.286201477050781,
+      "system_params": 1163272.0
+    },
+    {
+      "id": "unimvsnet",
+      "name": "UniMVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 274,
+      "accuracy_mm": 0.2904837452321754,
+      "completeness_mm": 1.9818198191057697,
+      "overall_mm": 1.1361517821689726,
+      "median_total": 0.8087779519769053,
+      "max_peak_allocated_gib": 3.174994468688965,
+      "system_params": 934375.0
+    },
+    {
+      "id": "geomvsnet",
+      "name": "GeoMVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 272,
+      "accuracy_mm": 0.25376944877944935,
+      "completeness_mm": 2.6069484595789874,
+      "overall_mm": 1.4303589541792183,
+      "median_total": 1.2084664288908242,
+      "max_peak_allocated_gib": 4.29972505569458,
+      "system_params": 15306124.0
+    },
+    {
+      "id": "casdiffmvs",
+      "name": "CasDiffMVS",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 271,
+      "accuracy_mm": 0.30278626627874855,
+      "completeness_mm": 1.6821804394964954,
+      "overall_mm": 0.992483352887622,
+      "median_total": 0.4906134016811848,
+      "max_peak_allocated_gib": 0.6199789047241211,
+      "system_params": 925435.0
+    },
+    {
+      "id": "monomvsnet",
+      "name": "MonoMVSNet",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 273,
+      "accuracy_mm": 0.22698290678279812,
+      "completeness_mm": 2.03923188906376,
+      "overall_mm": 1.133107397923279,
+      "median_total": 0.6842442985313634,
+      "max_peak_allocated_gib": 1.5908288955688477,
+      "system_params": 27677943.0
+    },
+    {
+      "id": "svrecon",
+      "name": "SVRecon",
+      "mechanism": "II",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 275,
+      "accuracy_mm": 0.554947180359535,
+      "completeness_mm": 1.729558369892094,
+      "overall_mm": 1.1422527751258145,
+      "median_total": 51.280666430077204,
+      "max_peak_allocated_gib": 3.743169593811035,
+      "system_params": 44221213.0
+    },
+    {
+      "id": "fus3d",
+      "name": "Fus3D",
+      "mechanism": "III",
+      "dataset": "DTU",
+      "group": "G:rgb_no_pose",
+      "setup": "3 views · unknown cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 276,
+      "accuracy_mm": 6.0469940852752035,
+      "completeness_mm": 7.387230478842929,
+      "overall_mm": 6.717112282059066,
+      "median_total": 0.3313027718414863,
+      "max_peak_allocated_gib": 8.389530181884766,
+      "system_params": 2082765590.0
+    },
+    {
+      "id": "mvsanywhere",
+      "name": "MVSAnywhere",
+      "mechanism": "I",
+      "dataset": "DTU",
+      "group": "G:calibrated",
+      "setup": "3 views · known cameras",
+      "views": 3,
+      "targets": 0,
+      "samples": 15,
+      "reference_number": 66,
+      "accuracy_mm": 0.8961360744438336,
+      "completeness_mm": 3.3142491660976687,
+      "overall_mm": 2.1051926202707514,
+      "median_total": 0.4628069219800333,
+      "max_peak_allocated_gib": 1.1081690788269043,
+      "system_params": 201670426.0
+    },
+    {
+      "id": "volsplat",
+      "name": "VolSplat",
+      "mechanism": "III",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 26,
+      "psnr_db": 29.521187648177147,
+      "ssim": 0.9284879669547081,
+      "lpips": 0.06770653761923313,
+      "gaussian_count": 393179.85,
+      "median_total": 0.3125162439886481,
+      "max_peak_allocated_gib": 7.03507661819458,
+      "system_params": 137998741.0
+    },
+    {
+      "id": "locosplat",
+      "name": "LoCoSplat",
+      "mechanism": "III",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 267,
+      "psnr_db": 29.847974494099617,
+      "ssim": 0.9324331663548946,
+      "lpips": 0.06587162839714437,
+      "gaussian_count": 393171.95,
+      "median_total": 0.17876606949139387,
+      "max_peak_allocated_gib": 3.7161002159118652,
+      "system_params": 99112829.0
+    },
+    {
+      "id": "mvsplat",
+      "name": "MVSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 30,
+      "psnr_db": 29.13188311457634,
+      "ssim": 0.922199760004878,
+      "lpips": 0.07588535700924695,
+      "gaussian_count": 393216.0,
+      "median_total": 0.2497192819369957,
+      "max_peak_allocated_gib": 3.3088841438293457,
+      "system_params": 11955734.0
+    },
+    {
+      "id": "pixelsplat",
+      "name": "pixelSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 18,
+      "psnr_db": 29.123363345861435,
+      "ssim": 0.9105459176003933,
+      "lpips": 0.14158451668918132,
+      "gaussian_count": 1179648.0,
+      "median_total": 0.6531556374160573,
+      "max_peak_allocated_gib": 8.52353048324585,
+      "system_params": 118980180.0
+    },
+    {
+      "id": "canonicalgs",
+      "name": "CanonicalGS",
+      "mechanism": "III",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 281,
+      "psnr_db": 28.591230303049088,
+      "ssim": 0.9098509900271893,
+      "lpips": 0.08783088326454162,
+      "gaussian_count": 350272.3,
+      "median_total": 0.9288506029406562,
+      "max_peak_allocated_gib": 9.52867796421051,
+      "system_params": 46518189.0
+    },
+    {
+      "id": "depthsplat",
+      "name": "DepthSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 39,
+      "psnr_db": 29.910967484116554,
+      "ssim": 0.9324099816381931,
+      "lpips": 0.06651499812724068,
+      "gaussian_count": 393216.0,
+      "median_total": 0.21105195246636868,
+      "max_peak_allocated_gib": 6.967177867889404,
+      "system_params": 120747896.0
+    },
+    {
+      "id": "ggn",
+      "name": "GGN",
+      "mechanism": "IV",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 268,
+      "psnr_db": 27.594941288232803,
+      "ssim": 0.8999031499028206,
+      "lpips": 0.1013551470823586,
+      "gaussian_count": 130895.35,
+      "median_total": 0.2671228517545387,
+      "max_peak_allocated_gib": 3.3094305992126465,
+      "system_params": 12101996.0
+    },
+    {
+      "id": "globalsplat",
+      "name": "GlobalSplat",
+      "mechanism": "IV",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 282,
+      "psnr_db": 32.26883947849274,
+      "ssim": 0.9372997127473355,
+      "lpips": 0.0820389133412391,
+      "gaussian_count": 16384.0,
+      "median_total": 0.0716468827566132,
+      "max_peak_allocated_gib": 0.5105171203613281,
+      "system_params": 84321120.0
+    },
+    {
+      "id": "worldmirror",
+      "name": "WorldMirror",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 279,
+      "psnr_db": 25.01259160041809,
+      "ssim": 0.8216989576816559,
+      "lpips": 0.1303976271301508,
+      "gaussian_count": 691871.15,
+      "median_total": 0.3110264014918357,
+      "max_peak_allocated_gib": 8.361785888671875,
+      "system_params": 1263337002.0
+    },
+    {
+      "id": "yonosplat",
+      "name": "YoNoSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 107,
+      "psnr_db": 29.457525834441185,
+      "ssim": 0.9231642678380012,
+      "lpips": 0.07532684875186532,
+      "gaussian_count": 208896.0,
+      "median_total": 0.15504151119384915,
+      "max_peak_allocated_gib": 5.678210258483887,
+      "system_params": 964975804.0
+    },
+    {
+      "id": "zipsplat",
+      "name": "ZipSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N6",
+      "setup": "6 views",
+      "views": 6,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 280,
+      "psnr_db": 23.105278857052326,
+      "ssim": 0.7188648706302047,
+      "lpips": 0.1649407221470028,
+      "gaussian_count": 62208.0,
+      "median_total": 0.12994677724782377,
+      "max_peak_allocated_gib": 8.531454086303711,
+      "system_params": 1501056745.0
+    },
+    {
+      "id": "mvsplat",
+      "name": "MVSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 30,
+      "psnr_db": 28.767868623137474,
+      "ssim": 0.9088317334651947,
+      "lpips": 0.08385829256149009,
+      "gaussian_count": 131072.0,
+      "median_total": 0.09610706842504442,
+      "max_peak_allocated_gib": 1.07633638381958,
+      "system_params": 11955734.0
+    },
+    {
+      "id": "pixelnerf",
+      "name": "pixelNeRF",
+      "mechanism": "II",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 17,
+      "psnr_db": 11.532920703291893,
+      "ssim": 0.39934220174327495,
+      "lpips": 0.7550300437957048,
+      "median_total": 57.491468064882795,
+      "max_peak_allocated_gib": 0.30324745178222656,
+      "system_params": 28161864.0
+    },
+    {
+      "id": "ibrnet",
+      "name": "IBRNet",
+      "mechanism": "II",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 37,
+      "psnr_db": 26.802029192447662,
+      "ssim": 0.858041899651289,
+      "lpips": 0.1756795564549975,
+      "median_total": 5.9899027369916436,
+      "max_peak_allocated_gib": 3.1125659942626953,
+      "system_params": 8957392.0
+    },
+    {
+      "id": "murf",
+      "name": "MuRF",
+      "mechanism": "III",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 182,
+      "psnr_db": 30.184971645474434,
+      "ssim": 0.9199004154652357,
+      "lpips": 0.0937853064155206,
+      "median_total": 1.0761252475669607,
+      "max_peak_allocated_gib": 4.448728084564209,
+      "system_params": 5649749.0
+    },
+    {
+      "id": "latentsplat",
+      "name": "latentSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 277,
+      "psnr_db": 26.28895566612482,
+      "ssim": 0.8617756102234125,
+      "lpips": 0.11765079835895449,
+      "gaussian_count": 393216.0,
+      "median_total": 0.26988208999391644,
+      "max_peak_allocated_gib": 3.0950794219970703,
+      "system_params": 184620867.0
+    },
+    {
+      "id": "hisplat",
+      "name": "HiSplat",
+      "mechanism": "I",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 71,
+      "psnr_db": 29.34555633366108,
+      "ssim": 0.9137992896139622,
+      "lpips": 0.08071832724381238,
+      "gaussian_count": 172032.0,
+      "median_total": 0.11442202036269009,
+      "max_peak_allocated_gib": 1.6354084014892578,
+      "system_params": 150876854.0
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "mechanism": "II",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 164,
+      "psnr_db": 27.008022040128708,
+      "ssim": 0.847245528548956,
+      "lpips": 0.18996828518575057,
+      "median_total": 16.748985935933888,
+      "max_peak_allocated_gib": 0.7003998756408691,
+      "system_params": 9759747.0
+    },
+    {
+      "id": "gefu",
+      "name": "GeFu",
+      "mechanism": "II",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 278,
+      "psnr_db": 27.019077867269516,
+      "ssim": 0.8821124836802483,
+      "lpips": 0.19290246232412755,
+      "median_total": 0.1386050521861762,
+      "max_peak_allocated_gib": 0.41840076446533203,
+      "system_params": 3150186.0
+    },
+    {
+      "id": "resplat",
+      "name": "ReSplat",
+      "mechanism": "IV",
+      "dataset": "RealEstate10K",
+      "group": "N2",
+      "setup": "2 views",
+      "views": 2,
+      "targets": 8,
+      "samples": 20,
+      "reference_number": 60,
+      "psnr_db": 34.06420926749706,
+      "ssim": 0.9499318346381187,
+      "lpips": 0.06361037484020926,
+      "gaussian_count": 131072.0,
+      "median_total": 0.28033642084337773,
+      "max_peak_allocated_gib": 3.883599138259888,
+      "system_params": 222144100.0
+    },
+    {
+      "id": "dust3r",
+      "name": "DUSt3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 31,
+      "accuracy_m": 0.02783899359552326,
+      "completeness_m": 0.032063807906463286,
+      "fscore_05m": 0.8192637090464641,
+      "rotation_deg": 1.8256284951407178,
+      "translation_deg": 8.745392822065426,
+      "auc_at_30_pct": 72.68629522840534,
+      "median_total": 4.172978997637983,
+      "max_peak_allocated_gib": 2.571739673614502,
+      "system_params": 571171208.0
+    },
+    {
+      "id": "mast3r",
+      "name": "MASt3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 98,
+      "accuracy_m": 0.09751433292351164,
+      "completeness_m": 0.10042999525492119,
+      "fscore_05m": 0.6815145020475528,
+      "rotation_deg": 14.105387172779592,
+      "translation_deg": 12.82817064722468,
+      "auc_at_30_pct": 77.63081886226948,
+      "median_total": 3.897995323408395,
+      "max_peak_allocated_gib": 3.1469096541404724,
+      "system_params": 688638856.0
+    },
+    {
+      "id": "vggt",
+      "name": "VGGT",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 19,
+      "accuracy_m": 0.019973176987645842,
+      "completeness_m": 0.026045850346565376,
+      "fscore_05m": 0.8998197585451065,
+      "rotation_deg": 1.761856389977293,
+      "translation_deg": 7.220659027828734,
+      "auc_at_30_pct": 75.75025436073649,
+      "median_total": 0.3453741383855231,
+      "max_peak_allocated_gib": 5.483357906341553,
+      "system_params": 1256537516.0
+    },
+    {
+      "id": "pi3",
+      "name": "π³",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 75,
+      "accuracy_m": 0.012417935109660053,
+      "completeness_m": 0.0159872792342864,
+      "fscore_05m": 0.9652208727791617,
+      "rotation_deg": 1.1624256560904256,
+      "translation_deg": 3.796228377135949,
+      "auc_at_30_pct": 86.93077219561022,
+      "median_total": 0.14537764893611893,
+      "max_peak_allocated_gib": 5.546420574188232,
+      "system_params": 958696732.0
+    },
+    {
+      "id": "mapanything",
+      "name": "MapAnything",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 22,
+      "accuracy_m": 0.033547850086563184,
+      "completeness_m": 0.039298111381388355,
+      "fscore_05m": 0.7903870384419034,
+      "rotation_deg": 2.32904610248681,
+      "translation_deg": 10.634086730496692,
+      "auc_at_30_pct": 65.01991482304282,
+      "median_total": 0.4291152794030495,
+      "max_peak_allocated_gib": 5.19828462600708,
+      "system_params": 1228491222.0
+    },
+    {
+      "id": "da3",
+      "name": "Depth Anything 3",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 113,
+      "accuracy_m": 0.030082241660479212,
+      "completeness_m": 0.0327906272154725,
+      "fscore_05m": 0.8060066099544604,
+      "rotation_deg": 1.920895136031443,
+      "translation_deg": 5.48249764009042,
+      "auc_at_30_pct": 81.11993859778944,
+      "median_total": 0.09923461265861988,
+      "max_peak_allocated_gib": 2.67543888092041,
+      "system_params": 410941767.0
+    },
+    {
+      "id": "fast3r",
+      "name": "Fast3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 28,
+      "accuracy_m": 0.06797734757569046,
+      "completeness_m": 0.07763203918216051,
+      "fscore_05m": 0.620433142155709,
+      "rotation_deg": 7.606132683354409,
+      "translation_deg": 37.452977077841524,
+      "auc_at_30_pct": 45.91474460274188,
+      "median_total": 53.017585056019016,
+      "max_peak_allocated_gib": 4.460911750793457,
+      "system_params": 647551368.0
+    },
+    {
+      "id": "cut3r",
+      "name": "CUT3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 34,
+      "accuracy_m": 0.03407100646189497,
+      "completeness_m": 0.03731013782167111,
+      "fscore_05m": 0.7659549713506728,
+      "rotation_deg": 1.9341320165778115,
+      "translation_deg": 6.842979517478197,
+      "auc_at_30_pct": 77.02780699921279,
+      "median_total": 0.23341267829528078,
+      "max_peak_allocated_gib": 3.4221725463867188,
+      "system_params": 793307858.0
+    },
+    {
+      "id": "spann3r",
+      "name": "Spann3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 46,
+      "accuracy_m": 0.027467335336293225,
+      "completeness_m": 0.0544200104173406,
+      "fscore_05m": 0.7459064999732279,
+      "rotation_deg": 2.882519370640785,
+      "translation_deg": 11.821217187587703,
+      "auc_at_30_pct": 66.9302511073724,
+      "median_total": 0.20148806110955775,
+      "max_peak_allocated_gib": 2.5874829292297363,
+      "system_params": 658691976.0
+    },
+    {
+      "id": "must3r",
+      "name": "MUSt3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 69,
+      "accuracy_m": 0.03455222199583552,
+      "completeness_m": 0.03593025359845232,
+      "fscore_05m": 0.7719420442295171,
+      "rotation_deg": 2.321273872439402,
+      "translation_deg": 9.361058485441784,
+      "auc_at_30_pct": 69.05349088180199,
+      "median_total": 0.14530352724250406,
+      "max_peak_allocated_gib": 2.0560312271118164,
+      "system_params": 423430144.0
+    },
+    {
+      "id": "pow3r",
+      "name": "Pow3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 85,
+      "accuracy_m": 0.029577383590099173,
+      "completeness_m": 0.03432866773476482,
+      "fscore_05m": 0.7989897032693695,
+      "rotation_deg": 1.968127221978262,
+      "translation_deg": 8.240623018161385,
+      "auc_at_30_pct": 72.16041720409729,
+      "median_total": 4.156814620189834,
+      "max_peak_allocated_gib": 2.303415298461914,
+      "system_params": 555733504.0
+    },
+    {
+      "id": "flare",
+      "name": "FLARE",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 80,
+      "accuracy_m": 0.037731267795160894,
+      "completeness_m": 0.037638749041324956,
+      "fscore_05m": 0.7515968603072273,
+      "rotation_deg": 2.65183672947896,
+      "translation_deg": 10.340622469415983,
+      "auc_at_30_pct": 65.01812885040138,
+      "median_total": 0.6074382556253113,
+      "max_peak_allocated_gib": 8.517744064331055,
+      "system_params": 1403248983.0
+    },
+    {
+      "id": "worldmirror",
+      "name": "WorldMirror",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 279,
+      "accuracy_m": 0.02141716307303332,
+      "completeness_m": 0.026606247429061636,
+      "fscore_05m": 0.893755068987936,
+      "rotation_deg": 1.4709252322184652,
+      "translation_deg": 5.3727707683310895,
+      "auc_at_30_pct": 81.77103287023482,
+      "median_total": 0.18748760118614882,
+      "max_peak_allocated_gib": 7.5140299797058105,
+      "system_params": 1263337002.0
+    },
+    {
+      "id": "stream3r",
+      "name": "STream3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 103,
+      "accuracy_m": 0.02647718650557946,
+      "completeness_m": 0.03326393072747083,
+      "fscore_05m": 0.8099266936473403,
+      "rotation_deg": 1.838412684603097,
+      "translation_deg": 7.788253594240227,
+      "auc_at_30_pct": 73.9369666845761,
+      "median_total": 0.17168657068395987,
+      "max_peak_allocated_gib": 7.409408092498779,
+      "system_params": 1190596120.0
+    },
+    {
+      "id": "streamvggt",
+      "name": "StreamVGGT",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 82,
+      "accuracy_m": 0.11281361750326487,
+      "completeness_m": 0.1370983047045992,
+      "fscore_05m": 0.3930390795511317,
+      "rotation_deg": 1.7008203651990663,
+      "translation_deg": 6.921759340651452,
+      "auc_at_30_pct": 77.32675381985867,
+      "median_total": 0.23735011729877442,
+      "max_peak_allocated_gib": 7.326106071472168,
+      "system_params": 1256537516.0
+    },
+    {
+      "id": "lingbot-map",
+      "name": "LingBot-Map",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 283,
+      "accuracy_m": 0.03760085165899247,
+      "completeness_m": 0.04336457196077584,
+      "fscore_05m": 0.7383524107457385,
+      "rotation_deg": 1.7070586092047535,
+      "translation_deg": 7.384874097011432,
+      "auc_at_30_pct": 75.25429124055222,
+      "median_total": 0.14013360638637096,
+      "max_peak_allocated_gib": 7.521229267120361,
+      "system_params": 1157943540.0
+    },
+    {
+      "id": "vggt-omega",
+      "name": "VGGT-Ω",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 77,
+      "accuracy_m": 0.028939187201533306,
+      "completeness_m": 0.03174649470483677,
+      "fscore_05m": 0.8178375170846799,
+      "rotation_deg": 1.7483208778107715,
+      "translation_deg": 6.190986454141715,
+      "auc_at_30_pct": 79.2918415746213,
+      "median_total": 0.09389127750182524,
+      "max_peak_allocated_gib": 6.282163143157959,
+      "system_params": 1143814185.0
+    },
+    {
+      "id": "amb3r",
+      "name": "AMB3R",
+      "mechanism": "I",
+      "dataset": "ScanNet",
+      "group": "A3",
+      "setup": "3 views · geometry and pose",
+      "views": 3,
+      "targets": 0,
+      "samples": 8,
+      "reference_number": 117,
+      "accuracy_m": 0.020928750993336267,
+      "completeness_m": 0.026375920940472166,
+      "fscore_05m": 0.8951541182976069,
+      "rotation_deg": 1.8052039926704107,
+      "translation_deg": 6.899000334303792,
+      "auc_at_30_pct": 76.89217057478187,
+      "median_total": 0.36100532062118873,
+      "max_peak_allocated_gib": 5.938708305358887,
+      "system_params": 1563123934.0
+    },
+    {
+      "id": "freesplat",
+      "name": "FreeSplat",
+      "mechanism": "IV",
+      "dataset": "ScanNet",
+      "group": "A2-3",
+      "setup": "3 views · FreeSplat",
+      "views": 3,
+      "targets": 4,
+      "samples": 8,
+      "reference_number": 32,
+      "psnr_db": 19.760297145694494,
+      "ssim": 0.7228935044258833,
+      "lpips": 0.3337191315367818,
+      "gaussian_count": 499261.5,
+      "median_total": 0.17881275044055656,
+      "max_peak_allocated_gib": 1.6657319068908691,
+      "system_params": 50544186.0
+    },
+    {
+      "id": "freesplat",
+      "name": "FreeSplat",
+      "mechanism": "IV",
+      "dataset": "ScanNet",
+      "group": "A2-10",
+      "setup": "10 views · FreeSplat",
+      "views": 10,
+      "targets": 4,
+      "samples": 8,
+      "reference_number": 32,
+      "psnr_db": 23.69057260453701,
+      "ssim": 0.7997507266700268,
+      "lpips": 0.2735988856293261,
+      "gaussian_count": 1076058.875,
+      "median_total": 0.46620269725099206,
+      "max_peak_allocated_gib": 5.0535783767700195,
+      "system_params": 50544186.0
+    },
+    {
+      "id": "panogrf",
+      "name": "PanoGRF",
+      "mechanism": "II",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:native_erp",
+      "setup": "Direct ERP input",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 224,
+      "ws_psnr_db": 14.175555370191393,
+      "ssim": 0.6238687574863434,
+      "lpips": 0.5648651897907258,
+      "median_total": 7.427341474918649,
+      "max_peak_allocated_gib": 2.573610305786133,
+      "system_params": 66187957.0
+    },
+    {
+      "id": "pansplat",
+      "name": "PanSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:native_erp",
+      "setup": "Direct ERP input",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 24,
+      "ws_psnr_db": 19.57380925083024,
+      "ssim": 0.7365364849567413,
+      "lpips": 0.41222517788410185,
+      "gaussian_count": 221642.0,
+      "median_total": 0.2854224040172994,
+      "max_peak_allocated_gib": 4.947432518005371,
+      "system_params": 50030410.0
+    },
+    {
+      "id": "cylindersplat",
+      "name": "CylinderSplat",
+      "mechanism": "III",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:native_erp",
+      "setup": "Direct ERP input",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 265,
+      "ws_psnr_db": 19.375914544740873,
+      "ssim": 0.6878015041351319,
+      "lpips": 0.396992552280426,
+      "gaussian_count": 1673012.0,
+      "median_total": 0.23635064898990094,
+      "max_peak_allocated_gib": 7.791145944595337,
+      "system_params": 13432477.0,
+      "median_depth_prior_generation_s": 0.10317561230622233
+    },
+    {
+      "id": "omnisplat",
+      "name": "OmniSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:native_erp",
+      "setup": "Direct ERP input",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 284,
+      "ws_psnr_db": 17.499330390637382,
+      "ssim": 0.6349001586437225,
+      "lpips": 0.44390428960323336,
+      "gaussian_count": 786432.0,
+      "median_total": 0.5003899242263288,
+      "max_peak_allocated_gib": 12.801524639129639,
+      "system_params": 11955734.0
+    },
+    {
+      "id": "mvsplat",
+      "name": "MVSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 30,
+      "ws_psnr_db": 15.837802396203394,
+      "ssim": 0.6344867885112763,
+      "lpips": 0.46158035695552824,
+      "gaussian_count": 786432.0,
+      "median_total": 0.46647451804019513,
+      "max_peak_allocated_gib": 1.07206392288208,
+      "system_params": 11955734.0
+    },
+    {
+      "id": "pixelnerf",
+      "name": "pixelNeRF",
+      "mechanism": "II",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 17,
+      "ws_psnr_db": 11.316448299451874,
+      "ssim": 0.5332217127084732,
+      "lpips": 0.6359173476696014,
+      "median_total": 44.52988751125522,
+      "max_peak_allocated_gib": 0.30483436584472656,
+      "system_params": 28161864.0
+    },
+    {
+      "id": "ibrnet",
+      "name": "IBRNet",
+      "mechanism": "II",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 37,
+      "ws_psnr_db": 15.271760729108438,
+      "ssim": 0.6264008104801178,
+      "lpips": 0.5217677325010299,
+      "median_total": 4.664037642534822,
+      "max_peak_allocated_gib": 3.1130542755126953,
+      "system_params": 8957392.0
+    },
+    {
+      "id": "murf",
+      "name": "MuRF",
+      "mechanism": "III",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 182,
+      "ws_psnr_db": 17.21603969962048,
+      "ssim": 0.7010071098804473,
+      "lpips": 0.41816077530384066,
+      "median_total": 1.0023704605177044,
+      "max_peak_allocated_gib": 4.447497367858887,
+      "system_params": 5649749.0
+    },
+    {
+      "id": "latentsplat",
+      "name": "latentSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 277,
+      "ws_psnr_db": 16.306120041748994,
+      "ssim": 0.6453092515468597,
+      "lpips": 0.4258617490530014,
+      "gaussian_count": 2359296.0,
+      "median_total": 0.7753519756253808,
+      "max_peak_allocated_gib": 2.8213133811950684,
+      "system_params": 184620867.0
+    },
+    {
+      "id": "hisplat",
+      "name": "HiSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 71,
+      "ws_psnr_db": 16.319436373902004,
+      "ssim": 0.6899224698543549,
+      "lpips": 0.3903361678123474,
+      "gaussian_count": 1032192.0,
+      "median_total": 0.6367300113197416,
+      "max_peak_allocated_gib": 1.6302814483642578,
+      "system_params": 150876854.0
+    },
+    {
+      "id": "gnt",
+      "name": "GNT",
+      "mechanism": "II",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 164,
+      "ws_psnr_db": 15.09456589022487,
+      "ssim": 0.6086882531642914,
+      "lpips": 0.5021215349435806,
+      "median_total": 12.493622606713325,
+      "max_peak_allocated_gib": 0.7003998756408691,
+      "system_params": 9759747.0
+    },
+    {
+      "id": "gefu",
+      "name": "GeFu",
+      "mechanism": "II",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 278,
+      "ws_psnr_db": 16.497908774610423,
+      "ssim": 0.69334636926651,
+      "lpips": 0.5120048433542251,
+      "median_total": 0.3183526592794806,
+      "max_peak_allocated_gib": 0.40184593200683594,
+      "system_params": 3150186.0
+    },
+    {
+      "id": "pixelsplat",
+      "name": "pixelSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 18,
+      "ws_psnr_db": 16.53521014533549,
+      "ssim": 0.690253472328186,
+      "lpips": 0.4110956907272339,
+      "gaussian_count": 2359296.0,
+      "median_total": 1.0227744739037008,
+      "max_peak_allocated_gib": 2.7145419120788574,
+      "system_params": 118979412.0
+    },
+    {
+      "id": "depthsplat",
+      "name": "DepthSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 39,
+      "ws_psnr_db": 15.525721822196648,
+      "ssim": 0.6713146984577179,
+      "lpips": 0.40517580807209014,
+      "gaussian_count": 786432.0,
+      "median_total": 0.47057673884555695,
+      "max_peak_allocated_gib": 1.6236376762390137,
+      "system_params": 120747896.0
+    },
+    {
+      "id": "transplat",
+      "name": "TranSplat",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 86,
+      "ws_psnr_db": 16.111733889459796,
+      "ssim": 0.6342277228832245,
+      "lpips": 0.46546374559402465,
+      "gaussian_count": 786432.0,
+      "median_total": 0.8873915252275765,
+      "max_peak_allocated_gib": 1.590853214263916,
+      "system_params": 110466639.0
+    },
+    {
+      "id": "worldmirror",
+      "name": "WorldMirror",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-NVS:six_faces",
+      "setup": "6-face adaptation",
+      "views": 2,
+      "targets": 1,
+      "samples": 10,
+      "reference_number": 279,
+      "ws_psnr_db": 14.98250638653397,
+      "ssim": 0.5916597574949265,
+      "lpips": 0.46391117870807647,
+      "gaussian_count": 2470346.6,
+      "median_total": 1.305207343539223,
+      "max_peak_allocated_gib": 7.65661096572876,
+      "system_params": 1263337002.0
+    },
+    {
+      "id": "panovggt",
+      "name": "PanoVGGT",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-G",
+      "setup": "2 panoramas · geometry and pose",
+      "views": 2,
+      "targets": 0,
+      "samples": 10,
+      "reference_number": 40,
+      "rotation_deg": 0.5303055183797561,
+      "translation_deg": 1.2960357001819605,
+      "auc_at_30_pct": 95.10245069717695,
+      "depth_baseline_absrel": 0.2942210843279885,
+      "depth_baseline_mae_m": 0.18112457980660054,
+      "fusion_accuracy_m": 0.07825682842448066,
+      "fusion_completeness_m": 0.09063078739158374,
+      "fusion_fscore_05m": 0.6739904979560698,
+      "median_total": 0.19239199147559702,
+      "max_peak_allocated_gib": 5.885265350341797,
+      "system_params": 984846757.0
+    },
+    {
+      "id": "any3r",
+      "name": "Any3R",
+      "mechanism": "I",
+      "dataset": "Matterport3D",
+      "group": "P-G",
+      "setup": "2 panoramas · geometry and pose",
+      "views": 2,
+      "targets": 0,
+      "samples": 10,
+      "reference_number": 269,
+      "rotation_deg": 0.5624291718874643,
+      "translation_deg": 0.4116335760255867,
+      "auc_at_30_pct": 97.95436994511266,
+      "depth_baseline_absrel": 0.119032300092336,
+      "depth_baseline_mae_m": 0.13930106966352673,
+      "fusion_accuracy_m": 0.03587788873952029,
+      "fusion_completeness_m": 0.045768362735233256,
+      "fusion_fscore_05m": 0.8060334644423888,
+      "median_total": 0.20948537336662412,
+      "max_peak_allocated_gib": 6.641592979431152,
+      "system_params": 1144868906.0
+    }
+  ],
+  "counts": {
+    "methods": 63,
+    "datasets": 42,
+    "settings": 77,
+    "evaluations": 1025
+  }
+}
