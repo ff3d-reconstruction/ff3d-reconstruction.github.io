@@ -41,7 +41,7 @@ The exported project does not need the full survey workspace to run.
 
 ## Static hosting
 
-The [published companion website](https://rexinshiminmaonanbei.github.io/ff3d-survey/) is served from the `gh-pages` branch.
+The [published companion website](https://ff3d-reconstruction.github.io/) is served from the `gh-pages` branch.
 
 Use dist as the publishing directory. For GitHub Pages, publish the dist contents
 from a dedicated branch or upload this directory with the official Pages actions.
