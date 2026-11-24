@@ -16,7 +16,7 @@ ACCENTS = {'"': "\u0308", "'": "\u0301", "c": "\u0327"}
 
 def plain_latex(value):
     for old, new in ((r"\ss", "ß"), (r"\circ", "°"), (r"\pi^3", "π³"),
-                     (r"\pi", "π"), (r"\Omega", "Ω"), (r"\&", "&"), (r"\%", "%")):
+                     (r"\mu", "μ"), (r"\pi", "π"), (r"\Omega", "Ω"), (r"\&", "&"), (r"\%", "%")):
         value = value.replace(old, new)
     value = re.sub(r'\\(["\x27c])\s*(?:\{([A-Za-z])\}|([A-Za-z]))',
                    lambda m: unicodedata.normalize("NFC", (m[2] or m[3]) + ACCENTS[m[1]]), value)

@@ -3,7 +3,7 @@ DTU MVS,3D geometry,124 scans,Images (calibrated),Point cloud (structured light)
 CO3D,3D geometry,"18,619 videos",Video (object),Point cloud (MVS),https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf
 MVImgNet,3D geometry,"219,188 videos",Video (object),"Point cloud, poses (SfM)",https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MVImgNet_A_Large-Scale_Dataset_of_Multi-View_Images_CVPR_2023_paper.pdf
 uCO3D,3D geometry,"≈170,000 videos",Video (object orbit),"Point cloud (SfM), 3DGS",https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UnCommon_Objects_in_3D_CVPR_2025_paper.html
-Google Scanned Objects,3D geometry,"1,030 objects",3D assets (scanned),Mesh (textured),https://research.google/pubs/google-scanned-objects-a-high-quality-dataset-of-3d-scanned-household-items/
+Google Scanned Objects,3D geometry,"1,030 objects",3D assets (scanned),Mesh (textured),https://doi.org/10.1109/ICRA46639.2022.9811809
 OmniObject3D,3D geometry,"6,000 objects","Video (real), rendered images",Mesh (scanned),https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf
 Objaverse 1.0,3D geometry,">800,000 models",3D assets,Mesh,https://openaccess.thecvf.com/content/CVPR2023/html/Deitke_Objaverse_A_Universe_of_Annotated_3D_Objects_CVPR_2023_paper.html
 ScanNet,3D geometry,"1,513 scans",RGB-D,Mesh (fused),https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf
@@ -36,8 +36,8 @@ ACID,Novel view synthesis,">13,000 sequences",Video (aerial),Target RGB (held ou
 DL3DV-10K/140,Novel view synthesis,"10,510/140",Video (captured),Target RGB (held out),https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html
 MegaSynth,Novel view synthesis,"700,000 scenes",Images (procedural render),"Target RGB, rendered depth",https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_MegaSynth_Scaling_Up_3D_Scene_Reconstruction_with_Synthesized_Data_CVPR_2025_paper.html
 Mip-NeRF 360,Novel view synthesis,9 scenes,Images (orbiting views),Target RGB (held out),https://jonbarron.info/mipnerf360/
-LLFF (forward-facing),Novel view synthesis,8 scenes,Images (forward-facing),Target RGB (held out),https://doi.org/10.1145/3306346.3322980
+NeRF-LLFF (forward-facing),Novel view synthesis,8 scenes,Images (forward-facing),Target RGB (held out),https://doi.org/10.1007/978-3-030-58452-8_24
 PanoGRF (MP3D),Novel view synthesis,90 scenes,ERP (rendered),Target ERP (held out),https://arxiv.org/abs/1709.06158
 DyCheck (iPhone),Novel view synthesis,14 sequences,Video (handheld),Target RGB (synced),https://proceedings.neurips.cc/paper_files/paper/2022/file/dab5a29f6614ec47ea0ca85c140226fd-Paper-Conference.pdf
 MPI Sintel,Motion and tracking,35 sequences,Video (synthetic),Optical flow (rendered),https://sintel.is.tuebingen.mpg.de/downloads
-TAPVid-3D,Motion and tracking,"4,569 videos",Video (captured),"3D point tracks, visibility",https://proceedings.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html
+TAPVid-3D,Motion and tracking,"4,569 video clips",Video (captured),"3D point tracks, visibility",https://proceedings.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html
