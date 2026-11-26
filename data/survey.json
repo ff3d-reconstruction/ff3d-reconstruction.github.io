@@ -26,7 +26,7 @@
       "year": "2026",
       "venue": "arXiv preprint arXiv:2610.36150",
       "paper": "https://arxiv.org/abs/2610.36150",
-      "reference_number": 271
+      "reference_number": 273
     },
     {
       "id": "canonicalgs",
@@ -40,7 +40,7 @@
       "year": "2026",
       "venue": "arXiv preprint arXiv:2606.23027",
       "paper": "https://arxiv.org/abs/2606.23027",
-      "reference_number": 283
+      "reference_number": 285
     },
     {
       "id": "casdiffmvs",
@@ -54,7 +54,7 @@
       "year": "2025",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "paper": "https://doi.org/10.1109/TPAMI.2025.3597148",
-      "reference_number": 273
+      "reference_number": 275
     },
     {
       "id": "casmvsnet",
@@ -110,7 +110,7 @@
       "year": "2026",
       "venue": "International Conference on Learning Representations",
       "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ed032b08a8822c3635cdcd961012ce60-Abstract-Conference.html",
-      "reference_number": 267
+      "reference_number": 269
     },
     {
       "id": "da3",
@@ -210,7 +210,7 @@
       "year": "2026",
       "venue": "European Conference on Computer Vision",
       "paper": "https://eccv.ecva.net/virtual/2026/poster/5466",
-      "reference_number": 278
+      "reference_number": 280
     },
     {
       "id": "gefu",
@@ -225,7 +225,7 @@
       "year": "2024",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Geometry-aware_Reconstruction_and_Fusion-refined_Rendering_for_Generalizable_Neural_Radiance_Fields_CVPR_2024_paper.html",
-      "reference_number": 280
+      "reference_number": 282
     },
     {
       "id": "geomvsnet",
@@ -239,7 +239,7 @@
       "year": "2023",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.html",
-      "reference_number": 274
+      "reference_number": 276
     },
     {
       "id": "ggn",
@@ -253,7 +253,7 @@
       "year": "2024",
       "venue": "Advances in Neural Information Processing Systems",
       "paper": "https://doi.org/10.52202/079017-1595",
-      "reference_number": 270
+      "reference_number": 272
     },
     {
       "id": "globalsplat",
@@ -267,7 +267,7 @@
       "year": "2026",
       "venue": "European Conference on Computer Vision",
       "paper": "https://eccv.ecva.net/virtual/2026/poster/5256",
-      "reference_number": 284
+      "reference_number": 286
     },
     {
       "id": "gnt",
@@ -282,7 +282,7 @@
       "year": "2023",
       "venue": "International Conference on Learning Representations",
       "paper": "https://openreview.net/forum?id=xE-LtsE-xx",
-      "reference_number": 166
+      "reference_number": 167
     },
     {
       "id": "hisplat",
@@ -341,7 +341,7 @@
       "year": "2024",
       "venue": "European Conference on Computer Vision",
       "paper": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11950.pdf",
-      "reference_number": 279
+      "reference_number": 281
     },
     {
       "id": "lingbot-map",
@@ -355,7 +355,7 @@
       "year": "2026",
       "venue": "European Conference on Computer Vision",
       "paper": "https://eccv.ecva.net/virtual/2026/poster/3493",
-      "reference_number": 285
+      "reference_number": 287
     },
     {
       "id": "locosplat",
@@ -369,7 +369,7 @@
       "year": "2026",
       "venue": "arXiv preprint arXiv:2610.04351",
       "paper": "https://arxiv.org/abs/2610.04351",
-      "reference_number": 269
+      "reference_number": 271
     },
     {
       "id": "mapanything",
@@ -411,7 +411,7 @@
       "year": "2025",
       "venue": "IEEE/CVF International Conference on Computer Vision",
       "paper": "https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_MonoMVSNet_Monocular_Priors_Guided_Multi-View_Stereo_Network_ICCV_2025_paper.html",
-      "reference_number": 275
+      "reference_number": 277
     },
     {
       "id": "murf",
@@ -426,7 +426,7 @@
       "year": "2024",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Xu_MuRF_Multi-Baseline_Radiance_Fields_CVPR_2024_paper.html",
-      "reference_number": 184
+      "reference_number": 185
     },
     {
       "id": "must3r",
@@ -498,7 +498,7 @@
       "year": "2025",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.html",
-      "reference_number": 286
+      "reference_number": 288
     },
     {
       "id": "panogrf",
@@ -512,7 +512,7 @@
       "year": "2023",
       "venue": "Advances in Neural Information Processing Systems",
       "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/16049e0c3f47899091ac46f8b3afb178-Abstract.html",
-      "reference_number": 226
+      "reference_number": 228
     },
     {
       "id": "panovggt",
@@ -626,7 +626,7 @@
       "year": "2023",
       "venue": "Advances in Neural Information Processing Systems",
       "paper": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/c47ec10bc135be5c3663ba344d29a6a5-Abstract-Conference.html",
-      "reference_number": 168
+      "reference_number": 169
     },
     {
       "id": "spann3r",
@@ -696,7 +696,7 @@
       "year": "2026",
       "venue": "European Conference on Computer Vision",
       "paper": "https://doi.org/10.1007/978-3-032-37520-9_34",
-      "reference_number": 277
+      "reference_number": 279
     },
     {
       "id": "transmvsnet",
@@ -752,7 +752,7 @@
       "year": "2024",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Na_UFORecon_Generalizable_Sparse-View_Surface_Reconstruction_from_Arbitrary_and_Unfavorable_Sets_CVPR_2024_paper.html",
-      "reference_number": 172
+      "reference_number": 173
     },
     {
       "id": "unimvsnet",
@@ -766,7 +766,7 @@
       "year": "2022",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Rethinking_Depth_Estimation_for_Multi-View_Stereo_A_Unified_Representation_CVPR_2022_paper.html",
-      "reference_number": 276
+      "reference_number": 278
     },
     {
       "id": "vggt",
@@ -822,7 +822,7 @@
       "year": "2023",
       "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Ren_VolRecon_Volume_Rendering_of_Signed_Ray_Distance_Functions_for_Generalizable_CVPR_2023_paper.html",
-      "reference_number": 164
+      "reference_number": 165
     },
     {
       "id": "volsplat",
@@ -852,7 +852,7 @@
       "year": "2026",
       "venue": "International Conference on Machine Learning",
       "paper": "https://proceedings.mlr.press/v306/liu26cw.html",
-      "reference_number": 281
+      "reference_number": 283
     },
     {
       "id": "yonosplat",
@@ -880,7 +880,7 @@
       "year": "2026",
       "venue": "arXiv preprint arXiv:2606.05102",
       "paper": "https://arxiv.org/abs/2606.05102",
-      "reference_number": 282
+      "reference_number": 284
     },
     {
       "id": "pi3",
@@ -908,7 +908,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1109/cvpr.2014.59",
       "reference_numbers": [
-        217
+        219
       ]
     },
     {
@@ -921,7 +921,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf",
       "reference_numbers": [
-        228
+        230
       ]
     },
     {
@@ -934,7 +934,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MVImgNet_A_Large-Scale_Dataset_of_Multi-View_Images_CVPR_2023_paper.pdf",
       "reference_numbers": [
-        229
+        231
       ]
     },
     {
@@ -947,7 +947,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UnCommon_Objects_in_3D_CVPR_2025_paper.html",
       "reference_numbers": [
-        223
+        225
       ]
     },
     {
@@ -962,7 +962,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1109/ICRA46639.2022.9811809",
       "reference_numbers": [
-        230
+        232
       ]
     },
     {
@@ -975,7 +975,7 @@
       "origin": "Rendered observations",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf",
       "reference_numbers": [
-        231
+        233
       ]
     },
     {
@@ -990,7 +990,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Deitke_Objaverse_A_Universe_of_Annotated_3D_Objects_CVPR_2023_paper.html",
       "reference_numbers": [
-        232
+        234
       ]
     },
     {
@@ -1005,7 +1005,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf",
       "reference_numbers": [
-        219
+        221
       ]
     },
     {
@@ -1020,7 +1020,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/ICCV2023/html/Yeshwanth_ScanNet_A_High-Fidelity_Dataset_of_3D_Indoor_Scenes_ICCV_2023_paper.html",
       "reference_numbers": [
-        233
+        235
       ]
     },
     {
@@ -1035,7 +1035,7 @@
       "origin": "",
       "paper": "https://arxiv.org/abs/1906.05797",
       "reference_numbers": [
-        234
+        236
       ]
     },
     {
@@ -1050,7 +1050,7 @@
       "origin": "",
       "paper": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/34173cb38f07f89ddbebc2ac9128303f-Abstract-round2.html",
       "reference_numbers": [
-        235
+        237
       ]
     },
     {
@@ -1065,7 +1065,7 @@
       "origin": "",
       "paper": "https://eth3d.ethz.ch/overview",
       "reference_numbers": [
-        218
+        220
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1145/3072959.3073599",
       "reference_numbers": [
-        236
+        238
       ]
     },
     {
@@ -1106,7 +1106,7 @@
       "origin": "",
       "paper": "https://eccv.ecva.net/virtual/2026/poster/4047",
       "reference_numbers": [
-        224
+        226
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.html",
       "reference_numbers": [
-        237
+        239
       ]
     },
     {
@@ -1136,7 +1136,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf",
       "reference_numbers": [
-        238
+        240
       ]
     },
     {
@@ -1149,7 +1149,7 @@
       "origin": "",
       "paper": "https://github.com/YoYo000/BlendedMVS",
       "reference_numbers": [
-        239
+        241
       ]
     },
     {
@@ -1164,7 +1164,7 @@
       "origin": "",
       "paper": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/66f041e16a60928b05a7e228a89c3799-Paper-round1.pdf",
       "reference_numbers": [
-        240
+        242
       ]
     },
     {
@@ -1177,7 +1177,7 @@
       "origin": "Rendered observations",
       "paper": "https://openaccess.thecvf.com/content/ICCV2021/html/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.html",
       "reference_numbers": [
-        241
+        243
       ]
     },
     {
@@ -1190,7 +1190,7 @@
       "origin": "",
       "paper": "https://research.cs.cornell.edu/megadepth/",
       "reference_numbers": [
-        242
+        244
       ]
     },
     {
@@ -1205,7 +1205,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1109/TPAMI.2022.3179507",
       "reference_numbers": [
-        243
+        245
       ]
     },
     {
@@ -1220,7 +1220,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content_ICCV_2019/html/Yogamani_WoodScape_A_Multi-Task_Multi-Camera_Fisheye_Dataset_for_Autonomous_Driving_ICCV_2019_paper.html",
       "reference_numbers": [
-        244
+        246
       ]
     },
     {
@@ -1235,7 +1235,7 @@
       "origin": "Rendered observations",
       "paper": "https://arxiv.org/html/2109.02749",
       "reference_numbers": [
-        227
+        229
       ]
     },
     {
@@ -1251,7 +1251,7 @@
       "origin": "",
       "paper": "https://arxiv.org/abs/1702.01105",
       "reference_numbers": [
-        245
+        247
       ]
     },
     {
@@ -1266,7 +1266,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html",
       "reference_numbers": [
-        246
+        248
       ]
     },
     {
@@ -1279,7 +1279,7 @@
       "origin": "Rendered observations",
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.html",
       "reference_numbers": [
-        247
+        249
       ]
     },
     {
@@ -1294,7 +1294,7 @@
       "origin": "",
       "paper": "https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/",
       "reference_numbers": [
-        248
+        250
       ]
     },
     {
@@ -1309,7 +1309,7 @@
       "origin": "",
       "paper": "https://cvg.cit.tum.de/_media/spezial/bib/sturm12iros.pdf",
       "reference_numbers": [
-        249
+        251
       ]
     },
     {
@@ -1322,7 +1322,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1177/0278364915620033",
       "reference_numbers": [
-        250
+        252
       ]
     },
     {
@@ -1335,7 +1335,7 @@
       "origin": "Rendered observations",
       "paper": "https://arxiv.org/abs/2003.14338",
       "reference_numbers": [
-        251
+        253
       ]
     },
     {
@@ -1351,7 +1351,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_360Loc_A_Dataset_and_Benchmark_for_Omnidirectional_Visual_Localization_with_CVPR_2024_paper.pdf",
       "reference_numbers": [
-        252
+        254
       ]
     },
     {
@@ -1364,7 +1364,7 @@
       "origin": "",
       "paper": "https://doi.org/10.1145/3197517.3201323",
       "reference_numbers": [
-        220
+        222
       ]
     },
     {
@@ -1377,7 +1377,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Infinite_Nature_Perpetual_View_Generation_of_Natural_Scenes_From_a_ICCV_2021_paper.pdf",
       "reference_numbers": [
-        253
+        255
       ]
     },
     {
@@ -1390,7 +1390,7 @@
       "origin": "",
       "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html",
       "reference_numbers": [
-        221
+        223
       ]
     },
     {
@@ -1403,7 +1403,7 @@
       "origin": "Rendered observations",
       "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_MegaSynth_Scaling_Up_3D_Scene_Reconstruction_with_Synthesized_Data_CVPR_2025_paper.html",
       "reference_numbers": [
-        222
+        224
       ]
     },
     {
@@ -1416,7 +1416,7 @@
       "origin": "",
       "paper": "https://jonbarron.info/mipnerf360/",
       "reference_numbers": [
-        254
+        256
       ]
     },
     {
@@ -1430,7 +1430,7 @@
       "paper": "https://doi.org/10.1007/978-3-030-58452-8_24",
       "reference_numbers": [
         15,
-        255
+        257
       ]
     },
     {
@@ -1445,8 +1445,8 @@
       "origin": "Rendered observations",
       "paper": "https://arxiv.org/abs/1709.06158",
       "reference_numbers": [
-        225,
-        226
+        227,
+        228
       ]
     },
     {
@@ -1459,7 +1459,7 @@
       "origin": "",
       "paper": "https://proceedings.neurips.cc/paper_files/paper/2022/file/dab5a29f6614ec47ea0ca85c140226fd-Paper-Conference.pdf",
       "reference_numbers": [
-        256
+        258
       ]
     },
     {
@@ -1472,7 +1472,7 @@
       "origin": "Rendered observations",
       "paper": "https://sintel.is.tuebingen.mpg.de/downloads",
       "reference_numbers": [
-        257
+        259
       ]
     },
     {
@@ -1485,7 +1485,7 @@
       "origin": "",
       "paper": "https://proceedings.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html",
       "reference_numbers": [
-        258
+        260
       ]
     }
   ],
@@ -1518,7 +1518,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 164,
+      "reference_number": 165,
       "accuracy_mm": 0.8615286084852078,
       "completeness_mm": 2.2101990322357037,
       "overall_mm": 1.5358638203604558,
@@ -1536,7 +1536,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 172,
+      "reference_number": 173,
       "accuracy_mm": 0.48694410671685423,
       "completeness_mm": 1.577947076648406,
       "overall_mm": 1.03244559168263,
@@ -1608,7 +1608,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 168,
+      "reference_number": 169,
       "accuracy_mm": 0.5171731164864252,
       "completeness_mm": 1.8863592800330586,
       "overall_mm": 1.2017661982597418,
@@ -1716,7 +1716,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 276,
+      "reference_number": 278,
       "accuracy_mm": 0.2904837452321754,
       "completeness_mm": 1.9818198191057697,
       "overall_mm": 1.1361517821689726,
@@ -1734,7 +1734,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 274,
+      "reference_number": 276,
       "accuracy_mm": 0.25376944877944935,
       "completeness_mm": 2.6069484595789874,
       "overall_mm": 1.4303589541792183,
@@ -1752,7 +1752,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 273,
+      "reference_number": 275,
       "accuracy_mm": 0.30278626627874855,
       "completeness_mm": 1.6821804394964954,
       "overall_mm": 0.992483352887622,
@@ -1770,7 +1770,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 275,
+      "reference_number": 277,
       "accuracy_mm": 0.22698290678279812,
       "completeness_mm": 2.03923188906376,
       "overall_mm": 1.133107397923279,
@@ -1788,7 +1788,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 277,
+      "reference_number": 279,
       "accuracy_mm": 0.554947180359535,
       "completeness_mm": 1.729558369892094,
       "overall_mm": 1.1422527751258145,
@@ -1806,7 +1806,7 @@
       "views": 3,
       "targets": 0,
       "samples": 15,
-      "reference_number": 278,
+      "reference_number": 280,
       "accuracy_mm": 6.0469940852752035,
       "completeness_mm": 7.387230478842929,
       "overall_mm": 6.717112282059066,
@@ -1861,7 +1861,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 269,
+      "reference_number": 271,
       "psnr_db": 29.847974494099617,
       "ssim": 0.9324331663548946,
       "lpips": 0.06587162839714437,
@@ -1918,7 +1918,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 283,
+      "reference_number": 285,
       "psnr_db": 28.591230303049088,
       "ssim": 0.9098509900271893,
       "lpips": 0.08783088326454162,
@@ -1956,7 +1956,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 270,
+      "reference_number": 272,
       "psnr_db": 27.594941288232803,
       "ssim": 0.8999031499028206,
       "lpips": 0.1013551470823586,
@@ -1975,7 +1975,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 284,
+      "reference_number": 286,
       "psnr_db": 32.26883947849274,
       "ssim": 0.9372997127473355,
       "lpips": 0.0820389133412391,
@@ -1994,7 +1994,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 281,
+      "reference_number": 283,
       "psnr_db": 25.01259160041809,
       "ssim": 0.8216989576816559,
       "lpips": 0.1303976271301508,
@@ -2032,7 +2032,7 @@
       "views": 6,
       "targets": 8,
       "samples": 20,
-      "reference_number": 282,
+      "reference_number": 284,
       "psnr_db": 23.105278857052326,
       "ssim": 0.7188648706302047,
       "lpips": 0.1649407221470028,
@@ -2106,7 +2106,7 @@
       "views": 2,
       "targets": 8,
       "samples": 20,
-      "reference_number": 184,
+      "reference_number": 185,
       "psnr_db": 30.184971645474434,
       "ssim": 0.9199004154652357,
       "lpips": 0.0937853064155206,
@@ -2124,7 +2124,7 @@
       "views": 2,
       "targets": 8,
       "samples": 20,
-      "reference_number": 279,
+      "reference_number": 281,
       "psnr_db": 26.28895566612482,
       "ssim": 0.8617756102234125,
       "lpips": 0.11765079835895449,
@@ -2162,7 +2162,7 @@
       "views": 2,
       "targets": 8,
       "samples": 20,
-      "reference_number": 166,
+      "reference_number": 167,
       "psnr_db": 27.008022040128708,
       "ssim": 0.847245528548956,
       "lpips": 0.18996828518575057,
@@ -2180,7 +2180,7 @@
       "views": 2,
       "targets": 8,
       "samples": 20,
-      "reference_number": 280,
+      "reference_number": 282,
       "psnr_db": 27.019077867269516,
       "ssim": 0.8821124836802483,
       "lpips": 0.19290246232412755,
@@ -2469,7 +2469,7 @@
       "views": 3,
       "targets": 0,
       "samples": 8,
-      "reference_number": 281,
+      "reference_number": 283,
       "accuracy_m": 0.02141716307303332,
       "completeness_m": 0.026606247429061636,
       "fscore_05m": 0.893755068987936,
@@ -2532,7 +2532,7 @@
       "views": 3,
       "targets": 0,
       "samples": 8,
-      "reference_number": 285,
+      "reference_number": 287,
       "accuracy_m": 0.03760085165899247,
       "completeness_m": 0.04336457196077584,
       "fscore_05m": 0.7383524107457385,
@@ -2633,7 +2633,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 226,
+      "reference_number": 228,
       "ws_psnr_db": 14.175555370191393,
       "ssim": 0.6238687574863434,
       "lpips": 0.5648651897907258,
@@ -2670,7 +2670,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 267,
+      "reference_number": 269,
       "ws_psnr_db": 19.375914544740873,
       "ssim": 0.6878015041351319,
       "lpips": 0.396992552280426,
@@ -2690,7 +2690,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 286,
+      "reference_number": 288,
       "ws_psnr_db": 17.499330390637382,
       "ssim": 0.6349001586437225,
       "lpips": 0.44390428960323336,
@@ -2764,7 +2764,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 184,
+      "reference_number": 185,
       "ws_psnr_db": 17.21603969962048,
       "ssim": 0.7010071098804473,
       "lpips": 0.41816077530384066,
@@ -2782,7 +2782,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 279,
+      "reference_number": 281,
       "ws_psnr_db": 16.306120041748994,
       "ssim": 0.6453092515468597,
       "lpips": 0.4258617490530014,
@@ -2820,7 +2820,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 166,
+      "reference_number": 167,
       "ws_psnr_db": 15.09456589022487,
       "ssim": 0.6086882531642914,
       "lpips": 0.5021215349435806,
@@ -2838,7 +2838,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 280,
+      "reference_number": 282,
       "ws_psnr_db": 16.497908774610423,
       "ssim": 0.69334636926651,
       "lpips": 0.5120048433542251,
@@ -2913,7 +2913,7 @@
       "views": 2,
       "targets": 1,
       "samples": 10,
-      "reference_number": 281,
+      "reference_number": 283,
       "ws_psnr_db": 14.98250638653397,
       "ssim": 0.5916597574949265,
       "lpips": 0.46391117870807647,
@@ -2955,7 +2955,7 @@
       "views": 2,
       "targets": 0,
       "samples": 10,
-      "reference_number": 271,
+      "reference_number": 273,
       "rotation_deg": 0.5624291718874643,
       "translation_deg": 0.4116335760255867,
       "auc_at_30_pct": 97.95436994511266,
