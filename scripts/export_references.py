@@ -73,7 +73,8 @@ def bibliography(paper, numbered, chapters, sections):
         if len(pieces) < 3:
             raise ValueError(f"Unexpected bibliography format: {key}")
         authors, title = (plain_latex(piece) for piece in pieces[:2])
-        venue = plain_latex(" ".join(re.sub(r"\\url\{[^}]+\}", "", part) for part in pieces[2:]))
+        venue_parts = [re.sub(r"\\url\{[^}]+\}", "", part).lstrip(" ,") for part in pieces[2:]]
+        venue = plain_latex(" ".join(venue_parts))
         if not authors or not title or not venue or any("\\" in s for s in (authors,title,venue)):
             raise ValueError(f"Incomplete or unconverted reference: {key}")
         assigned = " ".join(chapter for chapter in chapters if number in sections[chapter])
